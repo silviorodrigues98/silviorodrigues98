@@ -1,4 +1,4 @@
-## Ola!, seja bem vindo(a). Me chamo Silvio, sou Técnico em Eletrônica um grande entusiasta de tecnologia e da programação! 💻🤓
+## Ola!, seja bem vindo(a). Me chamo Silvio, sou Técnico em Eletrônica e um grande entusiasta de tecnologia e da programação! 💻🤓
 
 <div align="center">
   <a href="https://github.com/silviorodrigues98">
