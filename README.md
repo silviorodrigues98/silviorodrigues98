@@ -1,4 +1,4 @@
-## welcome to my github account. Feel free to contact me anytime!
+## Welcome to my github account. Feel free to contact me anytime!
 
 <div align="center">
   <a href="https://github.com/silviorodrigues98">
