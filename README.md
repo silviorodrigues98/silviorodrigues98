@@ -1,4 +1,4 @@
-## Ola, seja bem vindo(a). Me chamo Silvio, sou Técnico em Eletrônica e um grande entusiasta de tecnologia e da programação! 💻🤓
+## Welcome to my Github account. I'm an eletronics student and a programming enthusiast! Feel free to contact me anytime. 💻🤓
 
 <div align="center">
   <a href="https://github.com/silviorodrigues98">
