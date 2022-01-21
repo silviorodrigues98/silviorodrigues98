@@ -11,6 +11,9 @@
   <img align="center" alt="Silvio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Silvio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="RSilvio-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"">
+  <img align="center" alt="RSilvio-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"">
+  <img align="center" alt="RSilvio-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"">
+
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611d387e9a8a85b31f7c22e931a59690665b8befd16&rid=giphy.gif&ct=g">
 </div>
   
