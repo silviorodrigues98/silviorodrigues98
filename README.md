@@ -27,5 +27,5 @@
   
   <div>
     <br><br><br><br><br>
-<blockquote>"Welcome if it comes. Let go if it goes. Chase nothing. Cling to nothing. Remain unconcerned." - Stoic Quote </blockquote>
+<blockquote>"You miss 100% of the shots you don't take."
   </div>
