@@ -25,6 +25,12 @@
 </div>
   
   <div align="center">
-    <br><br><br><br><br>
+    <h2>About:</h2>
+    ✒️ Developing websites with Worpress ✒️<br>   
+    💒 I.O.T development using ESP32 and Arduino boards 💒<br>
+    🔌 Studying Electronics as a technician 🔌<br>
+  </div>
+   <div align="center">
+    <br><br><br><br><br><br>
 <blockquote>"You miss 100% of the shots you don't take."
   </div>
