@@ -29,12 +29,9 @@
     ✒️ Developing websites with Worpdress ✒️<br>   
     💒 I.O.T development using ESP32 and Arduino boards 💒<br>
     🔌 Learning Electronics as a technician 🔌<br>
-    
-    <div> 
-      <img align="center" alt="monkeygif" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611d387e9a8a85b31f7c22e931a59690665b8befd16&rid=giphy.gif&ct=g">
-    </div>
+  </div>
     
    <div align="center">
-    <br><br><br><br><br><br>
+     <br>  <br>  <br>  <br>  <br>  <br>
 <blockquote>"You miss 100% of the shots you don't take."
   </div>
