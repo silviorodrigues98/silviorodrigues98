@@ -34,6 +34,6 @@
   </div>
     
    <div align="center">
-     <br>  <br>  <br>  <br>  <br>  <br>
+     <br>
      <blockquote>"You miss 100% of the shots you don't take."</blockquote>
   </div>
