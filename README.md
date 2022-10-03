@@ -31,12 +31,11 @@
     📚 Studying Linux 📚<br>
     💰 Bitcoin enthusiastic 💰<br>
     :whale2: Learning Docker :whale2: <br>
-    :cyclone: Sarting to develop with NodeJS  :cyclone:<br>
+    :cyclone: Sarting to develop with NodeJS  :cyclone: <br><br><br><br>
     
     
     
-    <br>  <br>  <br>  
-    <img align="center" alt="gif" height="30%" style="border-radius:50px" src="https://media2.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611d387e9a8a85b31f7c22e931a59690665b8befd16&rid=giphy.gif&ct=g">
+   <img align="center" alt="gif" height="30%" style="border-radius:50px" src="https://media2.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611d387e9a8a85b31f7c22e931a59690665b8befd16&rid=giphy.gif&ct=g">
   </div>
     
    <div align="center">
