@@ -14,28 +14,25 @@
   <img align="center" alt="RSilvio-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="RSilvio-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="RSilvio-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Silvio-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Silvio-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Silvio-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+          
+  
 </div>
  
 <div align="center"> 
   <h2>Reach Me: </h2>
   <a href = "mailto:silviorodrigues98@hotmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/silviorodrigues98" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-  <a href="https://www.reddit.com/user/Then-Vehicle-3257" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>  
 </div>
   
   <div align="center">
-    <h2>About:</h2>
-    ✒️ Developing websites with Worpdress ✒️<br>   
-    💒 I.O.T development using ESP32 and Arduino boards 💒<br>
-    🔌 Learning Electronics as a technician 🔌<br>
-    📚 Studying Linux 📚<br>
-    💰 Bitcoin enthusiastic 💰<br>
-    :whale2: Learning Docker :whale2: <br>
-    :cyclone: Sarting to develop with NodeJS  :cyclone: <br><br><br><br>
+   <br><br><br><br>
     
     
     
-   <img align="center" alt="gif" height="30%" style="border-radius:50px" src="https://media2.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611d387e9a8a85b31f7c22e931a59690665b8befd16&rid=giphy.gif&ct=g">
+   <img align="center" alt="gif" height="30%" style="border-radius:50px" src="https://th.bing.com/th/id/R.a2b4ae4ebabcd10ff10a1581366f6df2?rik=HV0c317HttvMvA&pid=ImgRaw&r=0">
   </div>
     
    <div align="center">
