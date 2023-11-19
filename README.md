@@ -32,7 +32,7 @@
     
     
     
-   <img align="center" alt="gif" height="30%" style="border-radius:50px" src="https://th.bing.com/th/id/R.a2b4ae4ebabcd10ff10a1581366f6df2?rik=HV0c317HttvMvA&pid=ImgRaw&r=0">
+   <img align="center" alt="gif" height="30%" style="border-radius:50px" src="https://media.tenor.co/images/257e377aa9e3a9e68f450af923f213cf/raw">
   </div>
     
    <div align="center">
