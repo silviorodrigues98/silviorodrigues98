@@ -72,47 +72,6 @@
 
 ---
 
-## 📌 Projetos em Destaque
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🛠️ <a href="https://github.com/silviorodrigues98/utility-hub">Utility Hub</a></h3>
-      <p>Chrome Extension all-in-one de produtividade: auto-reload, keep-alive, assinatura WhatsApp</p>
-      <p><code>JavaScript</code> <code>Chrome Extensions</code></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📈 <a href="https://github.com/silviorodrigues98/calculador-de-sonhos">Calculadora de Sonhos</a></h3>
-      <p>Simulador de investimentos em CDB com metas de renda passiva</p>
-      <p><code>Next.js</code> <code>React</code></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🤖 <a href="https://github.com/silviorodrigues98/bitnuvem-trading-bot">Bitnuvem Trading Bot</a></h3>
-      <p>Automação de compra de BTC na corretora Bitnuvem</p>
-      <p><code>Node.js</code> <code>API</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>💳 <a href="https://github.com/silviorodrigues98/nubank-extrato-viewer">Nubank Extrato Viewer</a></h3>
-      <p>Leitor de faturas Nubank em CSV com visualização interativa</p>
-      <p><code>React</code> <code>TypeScript</code></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📜 <a href="https://github.com/silviorodrigues98/useful-scripts">Useful Scripts</a></h3>
-      <p>Coleção de scripts Windows e Linux para automação e manutenção</p>
-      <p><code>PowerShell</code> <code>Bash</code></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🧪 <a href="https://github.com/silviorodrigues98/lean-ai-template">Lean AI Template</a></h3>
-      <p>Template para projetos com AI Agents como senior engineering partners</p>
-      <p><code>Template</code> <code>AI</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -131,22 +90,6 @@
 - **Análise e Desenvolvimento de Sistemas** (Tecnólogo) — Universidade Estácio de Sá 🎓
 - **Engenharia de Computação** (Pós-Graduação) — UNINTER
 - **Segurança Cibernética** (Pós-Graduação) — UNINTER
-
----
-
-## 📬 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/silviorodrigues98/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:silviorodrigues98@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://silviorodrigues98.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
 ---
 
