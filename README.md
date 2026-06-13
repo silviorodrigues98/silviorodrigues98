@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Brazilian+%F0%9F%87%A7%F0%9F%87%B7;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Full+Stack+Developer;Tech+Enthusiast;Brazilian+%F0%9F%87%A7%F0%9F%87%B7;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -116,19 +116,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviorodrigues98&layout=compact&langs_count=7&theme=react&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviorodrigues98&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviorodrigues98&amp;layout=compact&amp;langs_count=7&amp;theme=react&amp;hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silviorodrigues98&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silviorodrigues98&amp;theme=react&amp;hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🎓 Formação
 
-- **Análise e Desenvolvimento de Sistemas** — Universidade Estácio de Sá 🎓
+- **Análise e Desenvolvimento de Sistemas** (Tecnólogo) — Universidade Estácio de Sá 🎓
+- **Engenharia de Computação** (Pós-Graduação) — UNINTER
+- **Segurança Cibernética** (Pós-Graduação) — UNINTER
 
 ---
 
