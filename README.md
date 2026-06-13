@@ -77,34 +77,34 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🛠️ <a href="https://github.com/silviorodrigues98/utility_hub_PROJECT">Utility Hub</a></h3>
+      <h3>🛠️ <a href="https://github.com/silviorodrigues98/utility-hub">Utility Hub</a></h3>
       <p>Chrome Extension all-in-one de produtividade: auto-reload, keep-alive, assinatura WhatsApp</p>
       <p><code>JavaScript</code> <code>Chrome Extensions</code></p>
     </td>
     <td align="center" width="33%">
-      <h3>📈 <a href="https://github.com/silviorodrigues98/calculador_de_sonhos_PROJECT">Calculadora de Sonhos</a></h3>
+      <h3>📈 <a href="https://github.com/silviorodrigues98/calculador-de-sonhos">Calculadora de Sonhos</a></h3>
       <p>Simulador de investimentos em CDB com metas de renda passiva</p>
       <p><code>Next.js</code> <code>React</code></p>
     </td>
     <td align="center" width="33%">
-      <h3>🤖 <a href="https://github.com/silviorodrigues98/bitnuvem_trading_PROJECT">Bitnuvem Trading Bot</a></h3>
+      <h3>🤖 <a href="https://github.com/silviorodrigues98/bitnuvem-trading-bot">Bitnuvem Trading Bot</a></h3>
       <p>Automação de compra de BTC na corretora Bitnuvem</p>
       <p><code>Node.js</code> <code>API</code></p>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <h3>💳 <a href="https://github.com/silviorodrigues98/nubank_controle_financeiro_PROJECT">Nubank Financeiro</a></h3>
+      <h3>💳 <a href="https://github.com/silviorodrigues98/nubank-extrato-viewer">Nubank Extrato Viewer</a></h3>
       <p>Leitor de faturas Nubank em CSV com visualização interativa</p>
       <p><code>React</code> <code>TypeScript</code></p>
     </td>
     <td align="center" width="33%">
-      <h3>📜 <a href="https://github.com/silviorodrigues98/useful_SCRIPTS">Useful Scripts</a></h3>
+      <h3>📜 <a href="https://github.com/silviorodrigues98/useful-scripts">Useful Scripts</a></h3>
       <p>Coleção de scripts Windows e Linux para automação e manutenção</p>
       <p><code>PowerShell</code> <code>Bash</code></p>
     </td>
     <td align="center" width="33%">
-      <h3>🧪 <a href="https://github.com/silviorodrigues98/lean_ai_TEMPLATE">Lean AI Template</a></h3>
+      <h3>🧪 <a href="https://github.com/silviorodrigues98/lean-ai-template">Lean AI Template</a></h3>
       <p>Template para projetos com AI Agents como senior engineering partners</p>
       <p><code>Template</code> <code>AI</code></p>
     </td>
