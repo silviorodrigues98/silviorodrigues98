@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Full+Stack+Developer;Tech+Enthusiast;Brazilian+%F0%9F%87%A7%F0%9F%87%B7;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Desenvolvendo+solu%C3%A7%C3%B5es+com+IA;Tech+Enthusiast;Brasileiro+%F0%9F%87%A7%F0%9F%87%B7;Sempre+aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
   Olá, sou Silvio Rodrigues
 </h1>
 
-<h3 align="center">Desenvolvedor Full Stack · Criando soluções com código e ☕</h3>
+<h3 align="center">Desenvolvendo soluções com IA · Criando com código e ☕</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/silviorodrigues98/">
