@@ -75,12 +75,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviorodrigues98&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviorodrigues98&amp;layout=compact&amp;langs_count=7&amp;theme=react&amp;hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silviorodrigues98&amp;theme=react" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silviorodrigues98&amp;theme=react&amp;hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silviorodrigues98&amp;theme=react" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silviorodrigues98&amp;theme=react" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=silviorodrigues98&amp;theme=react" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silviorodrigues98&amp;theme=react" alt="Productive Time" />
 </p>
 
 ---
