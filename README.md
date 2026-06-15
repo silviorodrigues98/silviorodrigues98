@@ -16,6 +16,9 @@
   <a href="mailto:silviorodrigues98@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://wa.me/5535999862243?text=Ol%C3%A1%20Silvio!%20Vi%20seu%20portf%C3%B3lio%20no%20GitHub%20e%20gostaria%20de%20conversar.">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
