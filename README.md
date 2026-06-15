@@ -87,7 +87,7 @@
 
 ## 🎓 Formação
 
-- **Análise e Desenvolvimento de Sistemas** (Tecnólogo) — Universidade Estácio de Sá 🎓
+- **Análise e Desenvolvimento de Sistemas** (Tecnólogo) — Universidade Estácio de Sá
 - **Engenharia de Computação** (Pós-Graduação) — UNINTER
 - **Segurança Cibernética** (Pós-Graduação) — UNINTER
 
