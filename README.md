@@ -80,8 +80,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silviorodrigues98&amp;theme=react" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silviorodrigues98&amp;theme=react" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=silviorodrigues98&amp;theme=react" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silviorodrigues98&amp;theme=react" alt="Productive Time" />
 </p>
 
