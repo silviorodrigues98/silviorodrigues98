@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Desenvolvendo+solu%C3%A7%C3%B5es+com+IA;Tech+Enthusiast;Brasileiro+%F0%9F%87%A7%F0%9F%87%B7;Sempre+aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Desenvolvendo+solu%C3%A7%C3%B5es+com+IA;Automa%C3%A7%C3%A3o+e+agentes+pr%C3%A1ticos;Sempre+aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="30" height="30" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="30" height="30" />
   Olá, sou Silvio Rodrigues
 </h1>
 
-<h3 align="center">Desenvolvendo soluções com IA · Criando com código e ☕</h3>
+<p align="center">
+  Desenvolvedor focado em <b>automação, IA aplicada e ferramentas de produtividade</b> — de bots e scripts a aplicações web completas.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/silviorodrigues98/">
@@ -19,41 +21,33 @@
   <a href="https://wa.me/5535999862243?text=Ol%C3%A1%20Silvio!%20Vi%20seu%20portf%C3%B3lio%20no%20GitHub%20e%20gostaria%20de%20conversar.">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  </p>
+</p>
 
-  ---
+---
 
-  ## 🚀 Diário de Engenharia ao Vivo
+## 📅 Em produção
 
-  Construindo agentes IA personalizados, automações e ferramentas práticas para resolver problemas reais. Foco em ship, iterar e documentar o processo.
+*Feed automático dos últimos 24h: o que os agentes rodaram e o que foi commitado.*
 
-  ### 📅 Esta Semana
-  *Atualizado automaticamente. O que estou construindo, aprendendo e entregando ativamente.*
+<!-- DAILY:START -->
+*Atualizado em 07/10/2026*
 
-  - **2026-10-06** — Projetado feed automatizado e seguro de portfólio GitHub a partir de sessões Hermes (redação-first, aprovação antes de publicar).
-  - **Em andamento** — Criando automações com agentes IA para portfólio e produtividade.
-  - **Aprendendo** — Refinando orquestração de agentes, tratamento seguro de dados e higiene de portfólio público.
-
-  ### 🧰 Stack Atual
-  `Next.js 16` · `Python` · `MCP` · `Git` · `Supabase` · `Inngest` · `OpenAI`
-
-  ### 🔗 Prova de Trabalho
-  - [Utility Hub](https://github.com/silviorodrigues98/utility-hub)
-
-  ---
-
-## 💡 Sobre mim
-
-Desenvolvedor com foco em **automação, IA aplicada e ferramentas de produtividade**. Gosto de transformar processos manuais em fluxos automatizados — de bots e scripts a aplicações web completas. Movido a ☕, curiosidade e a vontade de fazer as coisas funcionarem de forma mais inteligente.
-
-- 🔭 Atualmente: construindo automações e agentes de IA
-- 🌱 Sempre aprendendo algo novo em tech
-- ⚡ Foco em entregar soluções simples que escalam
+### 🤖 Automações (24h)
+- 🤖 LinkedIn Engajamento Diario (1 post, sem link): 188,086 tokens
+<!-- DAILY:END -->
 
 ---
 
 ## 🚀 Projetos
-Confira meus repositórios abaixo para ver os desenvolvimentos mais recentes.
+
+<p align="center">
+  <a href="https://github.com/silviorodrigues98/utility-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silviorodrigues98&repo=utility-hub&theme=react" alt="utility-hub"/>
+  </a>
+</p>
+
+- **[Utility Hub](https://github.com/silviorodrigues98/utility-hub)** — hub de ferramentas úteis em um só lugar.
+- Mais repositórios: [github.com/silviorodrigues98?tab=repositories](https://github.com/silviorodrigues98?tab=repositories)
 
 ---
 
@@ -61,7 +55,6 @@ Confira meus repositórios abaixo para ver os desenvolvimentos mais recentes.
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -77,24 +70,15 @@ Confira meus repositórios abaixo para ver os desenvolvimentos mais recentes.
 
 ---
 
-<!-- DAILY:START -->
-*Atualizado em 07/10/2026*
-
-### 🤖 Automações (24h)
-- 🤖 LinkedIn Engajamento Diario (1 post, sem link): 188,086 tokens
-<!-- DAILY:END -->
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silviorodrigues98&amp;theme=react" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silviorodrigues98&theme=react" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silviorodrigues98&amp;theme=react" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silviorodrigues98&amp;theme=react" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silviorodrigues98&theme=react" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silviorodrigues98&theme=react" alt="Productive Time" />
 </p>
 
 ---
