@@ -40,9 +40,21 @@
 
 ## 🚀 Projetos
 
-Confira meus repositórios abaixo:
+<p align="center">
+  <a href="https://github.com/silviorodrigues98/utility-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silviorodrigues98&repo=utility-hub&theme=react" alt="utility-hub"/>
+  </a>
+  <a href="https://github.com/silviorodrigues98/useful-scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silviorodrigues98&repo=useful-scripts&theme=react" alt="useful-scripts"/>
+  </a>
+  <a href="https://github.com/silviorodrigues98/calculador-de-sonhos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silviorodrigues98&repo=calculador-de-sonhos&theme=react" alt="calculador-de-sonhos"/>
+  </a>
+</p>
 
-[github.com/silviorodrigues98?tab=repositories](https://github.com/silviorodrigues98?tab=repositories)
+<p align="center">
+  <a href="https://github.com/silviorodrigues98?tab=repositories">Ver todos os repositórios →</a>
+</p>
 
 ---
 
