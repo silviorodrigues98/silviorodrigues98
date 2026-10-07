@@ -31,6 +31,9 @@
 
 <!-- DAILY:START -->
 - **LinkedIn Engajamento Diario** — Interação orgânica para ampliar alcance de conteúdo.
+
+- **Briefing Diario** — Resumo diário pessoal com prioridades e pendências.
+- **Gmail auto-arquivar >3 dias**
 <!-- DAILY:END -->
 
 ---
