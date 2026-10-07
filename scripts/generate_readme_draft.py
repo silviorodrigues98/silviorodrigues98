@@ -92,13 +92,31 @@ def collect_hermes_activity() -> List[str]:
             lines.append(f"- **{label}**")
     return lines[:8]
 
+def get_configured_automations() -> str:
+    try:
+        data = json.loads((Path(os.environ['HERMES_HOME']) / 'cron' / 'jobs.json').read_text(encoding='utf-8'))
+        jobs = data.get('jobs', data) if isinstance(data, dict) else data
+        lines = []
+        for j in jobs:
+            name = j.get('name', j.get('label', ''))
+            if not name: continue
+            name = name.split('(')[0].strip()
+            desc = JOB_DESCRIPTIONS.get(name, '')
+            if desc:
+                lines.append(f"- **{name}** — {desc}")
+            else:
+                lines.append(f"- **{name}**")
+        return '\n'.join(lines) if lines else ''
+    except: return ''
+
 # ============================================================
 # DRAFT
 # ============================================================
 
 JOB_DESCRIPTIONS = {
-    "LinkedIn Engajamento": "Interação orgânica para ampliar alcance de conteúdo.",
     "LinkedIn Engajamento Diario": "Interação orgânica para ampliar alcance de conteúdo.",
+    "Briefing Diario": "Resumo diário pessoal com prioridades e pendências.",
+    "Gmail auto-arquivar": "Limpeza automática de e-mails antigos do Gmail."
 }
 
 TEMPLATE = """{body}"""
@@ -135,10 +153,14 @@ def generate_draft() -> str:
     if commits:
         sections.append('### 💻 Commits recentes\n' + '\n'.join(commits))
 
-    # 2. Automation Activity (Hermes stats)
+    # 2. Automation Activity (Hermes stats) - always show configured automations
     hermes = collect_hermes_activity()
     if hermes:
+        # If we have audit data, use it (shows recent activity)
         sections.append('\n'.join(hermes))
+    else:
+        # Fallback: show all configured jobs
+        sections.append(get_configured_automations())
 
     if not sections:
         return '*Sem atividades significativas nas últimas 24h.*'
