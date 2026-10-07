@@ -153,14 +153,20 @@ def generate_draft() -> str:
     if commits:
         sections.append('### 💻 Commits recentes\n' + '\n'.join(commits))
 
-    # 2. Automation Activity (Hermes stats) - always show configured automations
     hermes = collect_hermes_activity()
+    # 2. Automation Activity (Hermes stats) - always show configured automations
     if hermes:
-        # If we have audit data, use it (shows recent activity)
         sections.append('\n'.join(hermes))
-    else:
-        # Fallback: show all configured jobs
-        sections.append(get_configured_automations())
+    # Always append all configured automations
+    cfg = get_configured_automations()
+    if cfg:
+        # If hermes gave same lines, dedupe
+        existing = set(sections[0].split('\n')) if sections else set()
+        new_lines = [l for l in cfg.split('\n') if l not in existing]
+        if new_lines:
+            sections.append('\n'.join(new_lines))
+    if not sections:
+        sections = [cfg] if cfg else []
 
     if not sections:
         return '*Sem atividades significativas nas últimas 24h.*'
