@@ -25,9 +25,9 @@
 
 ---
 
-## 📅 Em produção
+## ⚙️ Em produção
 
-*Feed automático dos últimos 24h: o que os agentes rodaram e o que foi commitado.*
+*Feed automático (24h): commits e execuções das automações.*
 
 <!-- DAILY:START -->
 *Log de atividades: 07/10/2026*
