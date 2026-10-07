@@ -25,10 +25,10 @@
 
 ---
 
-## ⚙️ Em produção
+## ⚙️ Automações com Hermes
 
 <!-- DAILY:START -->
-### ⚙️ Automações ativas
+### ⚙️ Automações Hermes
 - **LinkedIn Engajamento Diario** — Interação orgânica para ampliar alcance de conteúdo.
 <!-- DAILY:END -->
 
