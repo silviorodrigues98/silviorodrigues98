@@ -85,11 +85,11 @@ def collect_hermes_activity() -> List[str]:
 
     lines = []
     for label, v in sorted(agg.items(), key=lambda x: -x[1]['runs']):
-        tok = v['tokens']
-        tok_s = f"{tok/1000:.0f}K tokens" if tok else '—'
         desc = JOB_DESCRIPTIONS.get(label, '')
-        desc_s = f" — {desc}" if desc else ''
-        lines.append(f"- **{label}** · {v['runs']} exec · {tok_s}{desc_s}")
+        if desc:
+            lines.append(f"- **{label}** — {desc}")
+        else:
+            lines.append(f"- **{label}**")
     return lines[:8]
 
 # ============================================================
