@@ -116,7 +116,7 @@ def get_configured_automations() -> str:
 JOB_DESCRIPTIONS = {
     "LinkedIn Engajamento Diario": "Interação orgânica para ampliar alcance de conteúdo.",
     "Briefing Diario": "Resumo diário pessoal com prioridades e pendências.",
-    "Gmail auto-arquivar": "Limpeza automática de e-mails antigos do Gmail."
+    "Gmail auto-arquivar >3 dias": "Limpeza automática de e-mails antigos do Gmail."
 }
 
 TEMPLATE = """{body}"""
