@@ -44,10 +44,17 @@
   <a href="https://github.com/silviorodrigues98/utility-hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=silviorodrigues98&repo=utility-hub&theme=react" alt="utility-hub"/>
   </a>
+  <a href="https://github.com/silviorodrigues98/useful-scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silviorodrigues98&repo=useful-scripts&theme=react" alt="useful-scripts"/>
+  </a>
+  <a href="https://github.com/silviorodrigues98/calculador-de-sonhos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silviorodrigues98&repo=calculador-de-sonhos&theme=react" alt="calculador-de-sonhos"/>
+  </a>
 </p>
 
-- **[Utility Hub](https://github.com/silviorodrigues98/utility-hub)** — hub de ferramentas úteis em um só lugar.
-- Mais repositórios: [github.com/silviorodrigues98?tab=repositories](https://github.com/silviorodrigues98?tab=repositories)
+- [Utility Hub](https://github.com/silviorodrigues98/utility-hub)
+- [Useful Scripts](https://github.com/silviorodrigues98/useful-scripts)
+- [Calculador de Sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
 
 ---
 
