@@ -138,7 +138,7 @@ def generate_draft() -> str:
     # 2. Automation Activity (Hermes stats)
     hermes = collect_hermes_activity()
     if hermes:
-        sections.append('### ⚙️ Automações Hermes\n' + '\n'.join(hermes))
+        sections.append('\n'.join(hermes))
 
     if not sections:
         return '*Sem atividades significativas nas últimas 24h.*'
