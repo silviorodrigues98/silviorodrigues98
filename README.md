@@ -31,7 +31,7 @@
   *Atualizado automaticamente. O que estou construindo, aprendendo e entregando ativamente.*
 
   - **2026-10-06** — Projetado feed automatizado e seguro de portfólio GitHub a partir de sessões Hermes (redação-first, aprovação antes de publicar).
-  - **Em andamento** — Automatizando fluxos de marketing para OtimizAI (estratégia LinkedIn/canais, planejamento de crons).
+  - **Em andamento** — Criando automações com agentes IA para portfólio e produtividade.
   - **Aprendendo** — Refinando orquestração de agentes, tratamento seguro de dados e higiene de portfólio público.
 
   ### 🧰 Stack Atual
