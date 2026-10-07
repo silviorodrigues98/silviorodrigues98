@@ -23,21 +23,21 @@
 
   ---
 
-  ## 🚀 Live Engineering Journal
+  ## 🚀 Diário de Engenharia ao Vivo
 
-  Building custom AI agents, automation, and practical tools to solve real problems. Focused on shipping, iterating, and documenting the process.
+  Construindo agentes IA personalizados, automações e ferramentas práticas para resolver problemas reais. Foco em ship, iterar e documentar o processo.
 
-  ### 📅 This Week
-  *Updated automatically. What I'm actively building, learning and shipping.*
+  ### 📅 Esta Semana
+  *Atualizado automaticamente. O que estou construindo, aprendendo e entregando ativamente.*
 
-  - **2026-10-06** — Designed a safe, automated GitHub portfolio feed from Hermes sessions (redaction-first, approve-before-publish).
-  - **Ongoing** — Automating marketing workflows for OtimizAI (LinkedIn/Channels strategy, cron planning).
-  - **Learning** — Refining agent orchestration, safe data handling, and public portfolio hygiene.
+  - **2026-10-06** — Projetado feed automatizado e seguro de portfólio GitHub a partir de sessões Hermes (redação-first, aprovação antes de publicar).
+  - **Em andamento** — Automatizando fluxos de marketing para OtimizAI (estratégia LinkedIn/canais, planejamento de crons).
+  - **Aprendendo** — Refinando orquestração de agentes, tratamento seguro de dados e higiene de portfólio público.
 
-  ### 🧰 Current Tech Stack
+  ### 🧰 Stack Atual
   `Next.js 16` · `Python` · `MCP` · `Git` · `Supabase` · `Inngest` · `OpenAI`
 
-  ### 🔗 Proof of Work
+  ### 🔗 Prova de Trabalho
   - [OtimizAI Showcase](https://github.com/silviorodrigues98/otimizai-showcase)
   - [Utility Hub](https://github.com/silviorodrigues98/utility-hub)
 
