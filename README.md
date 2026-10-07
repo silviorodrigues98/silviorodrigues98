@@ -27,11 +27,7 @@
 
 ## ⚙️ Em produção
 
-*Feed automático (24h): commits e execuções das automações.*
-
 <!-- DAILY:START -->
-*Log de atividades: 07/10/2026*
-
 ### ⚙️ Automações ativas
 - **LinkedIn Engajamento Diario** — Interação orgânica para ampliar alcance de conteúdo.
 <!-- DAILY:END -->
