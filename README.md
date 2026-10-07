@@ -33,7 +33,7 @@
 - **LinkedIn Engajamento Diario** — Interação orgânica para ampliar alcance de conteúdo.
 
 - **Briefing Diario** — Resumo diário pessoal com prioridades e pendências.
-- **Gmail auto-arquivar >3 dias**
+- **Gmail auto-arquivar >3 dias** — Limpeza automática de e-mails antigos do Gmail.
 <!-- DAILY:END -->
 
 ---
