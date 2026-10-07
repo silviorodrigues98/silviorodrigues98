@@ -27,8 +27,9 @@
 
 ## ⚙️ Automações com Hermes
 
+*Eu construo e opero agentes Hermes: crons, integrações e fluxos que rodam sozinhos — do briefing diário ao post no LinkedIn. A lista abaixo é gerada e publicada por esses agentes, automaticamente.*
+
 <!-- DAILY:START -->
-### ⚙️ Automações Hermes
 - **LinkedIn Engajamento Diario** — Interação orgânica para ampliar alcance de conteúdo.
 <!-- DAILY:END -->
 
