@@ -78,15 +78,9 @@ Confira meus repositórios abaixo para ver os desenvolvimentos mais recentes.
 ---
 
 <!-- DAILY:START -->
-## 📅 Hoje (07/10/2026)
+*Atualizado em 07/10/2026*
 
-### ✅ Concluído (Todoist)
--
-
-### 📅 Calendar
--
-
-### 🤖 Hermes Activity
+### 🤖 Automações (24h)
 - 🤖 LinkedIn Engajamento Diario (1 post, sem link): 188,086 tokens
 <!-- DAILY:END -->
 
