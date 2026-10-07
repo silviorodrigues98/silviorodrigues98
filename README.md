@@ -43,32 +43,18 @@
 
   ---
 
-## ⭐ Projeto em Destaque
+## 💡 Sobre mim
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🤖 OtimizaAI</h3>
-      <p><strong>SaaS de otimização de currículos para ATS com Inteligência Artificial</strong></p>
-      <p>Upload do currículo → cola a descrição da vaga → IA reescreve com as palavras-chave certas. Tudo em português brasileiro, por R$ 1,99.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-000?logo=next.js" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai" alt="OpenAI"/>
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase" alt="Supabase"/>
-        <img src="https://img.shields.io/badge/Mercado_Pago-009EE3?logo=mercadopago" alt="Mercado Pago"/>
-      </p>
-      <p>
-        <a href="https://otimizai.vercel.app">🌐 Acessar o site</a> · 
-        <a href="https://github.com/silviorodrigues98/otimizai-showcase">📖 Ver case study</a>
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <br/>
-      <p><em>🚀 Side project que virou SaaS real</em></p>
-      <p><code>Next.js · OpenAI · Supabase · PIX</code></p>
-    </td>
-  </tr>
-</table>
+Desenvolvedor com foco em **automação, IA aplicada e ferramentas de produtividade**. Gosto de transformar processos manuais em fluxos automatizados — de bots e scripts a aplicações web completas. Movido a ☕, curiosidade e a vontade de fazer as coisas funcionarem de forma mais inteligente.
+
+- 🔭 Atualmente: construindo automações e agentes de IA
+- 🌱 Sempre aprendendo algo novo em tech
+- ⚡ Foco em entregar soluções simples que escalam
+
+---
+
+## 🚀 Projetos
+Confira meus repositórios abaixo para ver os desenvolvimentos mais recentes.
 
 ---
 
