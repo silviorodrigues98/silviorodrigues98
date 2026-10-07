@@ -19,9 +19,29 @@
   <a href="https://wa.me/5535999862243?text=Ol%C3%A1%20Silvio!%20Vi%20seu%20portf%C3%B3lio%20no%20GitHub%20e%20gostaria%20de%20conversar.">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-</p>
+  </p>
 
----
+  ---
+
+  ## 🚀 Diário de Engenharia ao Vivo
+
+  Construindo agentes IA personalizados, automações e ferramentas práticas para resolver problemas reais. Foco em ship, iterar e documentar o processo.
+
+  ### 📅 Esta Semana
+  *Atualizado automaticamente. O que estou construindo, aprendendo e entregando ativamente.*
+
+  - **2026-10-06** — Projetado feed automatizado e seguro de portfólio GitHub a partir de sessões Hermes (redação-first, aprovação antes de publicar).
+  - **Em andamento** — Criando automações com agentes IA para portfólio e produtividade.
+  - **Aprendendo** — Refinando orquestração de agentes, tratamento seguro de dados e higiene de portfólio público.
+
+  ### 🧰 Stack Atual
+  `Next.js 16` · `Python` · `MCP` · `Git` · `Supabase` · `Inngest` · `OpenAI`
+
+  ### 🔗 Prova de Trabalho
+  - [OtimizAI Showcase](https://github.com/silviorodrigues98/otimizai-showcase)
+  - [Utility Hub](https://github.com/silviorodrigues98/utility-hub)
+
+  ---
 
 ## ⭐ Projeto em Destaque
 
