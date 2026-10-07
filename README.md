@@ -38,7 +38,6 @@
   `Next.js 16` · `Python` · `MCP` · `Git` · `Supabase` · `Inngest` · `OpenAI`
 
   ### 🔗 Prova de Trabalho
-  - [OtimizAI Showcase](https://github.com/silviorodrigues98/otimizai-showcase)
   - [Utility Hub](https://github.com/silviorodrigues98/utility-hub)
 
   ---
