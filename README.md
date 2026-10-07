@@ -30,10 +30,10 @@
 *Feed automático dos últimos 24h: o que os agentes rodaram e o que foi commitado.*
 
 <!-- DAILY:START -->
-*Atualizado em 07/10/2026*
+*Log de atividades: 07/10/2026*
 
-### 🤖 Automações (24h)
-- 🤖 LinkedIn Engajamento Diario (1 post, sem link): 188,086 tokens
+### ⚙️ Automações ativas
+- **LinkedIn Engajamento Diario** · 23 exec · 188K tokens
 <!-- DAILY:END -->
 
 ---
