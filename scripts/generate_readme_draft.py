@@ -68,20 +68,40 @@ def collect_hermes_activity() -> List[str]:
                 if not ts_str: continue
                 ts = datetime.fromisoformat(ts_str.replace('Z', '+00:00')).replace(tzinfo=None)
                 if ts <= cutoff: continue
-                
+
                 job = entry.get('job_id', '')
                 if not job: continue
-                # We want to catch the jobs even if name not in jobs.json
-                label = names.get(job, f"Cron {job[:6]}")
-                agg.setdefault(label, 0)
-                agg[label] += int(entry.get('total_tokens', 0))
+                # Short public label: drop parenthetical details, keep it readable
+                label = names.get(job, '')
+                if not label:
+                    label = 'Automação'
+                label = label.split('(')[0].strip()
+                if len(label) > 34:
+                    label = label[:31].rstrip() + '…'
+                agg.setdefault(label, {'runs': 0, 'tokens': 0})
+                agg[label]['runs'] += 1
+                agg[label]['tokens'] += int(entry.get('total_tokens', 0))
             except: continue
-    return [f'- 🤖 {k}: {v:,} tokens' for k, v in sorted(agg.items(), key=lambda x: -x[1])][:8]
+
+    lines = []
+    for label, v in sorted(agg.items(), key=lambda x: -x[1]['runs']):
+        tok = v['tokens']
+        tok_s = f"{tok/1000:.0f}K tokens" if tok else '—'
+        desc = JOB_DESCRIPTIONS.get(label, '')
+        desc_s = f" — {desc}" if desc else ''
+        lines.append(f"- **{label}** · {v['runs']} exec · {tok_s}{desc_s}")
+    return lines[:8]
 
 # ============================================================
 # DRAFT
 # ============================================================
-TEMPLATE = """*Atualizado em {date}*
+
+JOB_DESCRIPTIONS = {
+    "LinkedIn Engajamento": "Interação orgânica para ampliar alcance de conteúdo.",
+    "LinkedIn Engajamento Diario": "Interação orgânica para ampliar alcance de conteúdo.",
+}
+
+TEMPLATE = """*Log de atividades: {date}*
 
 {body}
 """
@@ -113,16 +133,18 @@ def generate_draft() -> str:
 
     sections = []
 
-    hermes = collect_hermes_activity()
-    if hermes:
-        sections.append('### 🤖 Automações (24h)\n' + '\n'.join(hermes))
-
+    # 1. Commits (Tech focus)
     commits = collect_github_commits()
     if commits:
-        sections.append('### 💻 Código\n' + '\n'.join(commits))
+        sections.append('### 💻 Commits recentes\n' + '\n'.join(commits))
+
+    # 2. Automation Activity (Hermes stats)
+    hermes = collect_hermes_activity()
+    if hermes:
+        sections.append('### ⚙️ Automações ativas\n' + '\n'.join(hermes))
 
     if not sections:
-        return ''  # nothing worth publishing today
+        return '*Sem atividades significativas nas últimas 24h.*'
 
     return TEMPLATE.format(date=date_str, body='\n\n'.join(sections))
 
