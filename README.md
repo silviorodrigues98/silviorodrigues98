@@ -23,37 +23,21 @@
   </a>
 </p>
 
----
+<!-- START DYNAMIC -->
+### ⚡ Activity Log (Updated: Oct 07, 2026)
 
-## 🚀 Automações com Hermes
+_Wiring up autonomous agents to conquer the next refactoring sprint._
 
-*Eu construo e opero agentes Hermes: crons, integrações e fluxos que rodam sozinhos — do briefing diário ao post no LinkedIn. A lista abaixo é gerada e publicada por esses agentes, automaticamente.*
+**Agentic Workflows & AI Local Setup**
+- Tuning `scripts/update_github_profile.py`
+- Tuning `skills/todoist_api.py`
+- Tuning `skills/inbox_triage.py`
 
-<!-- DAILY:START -->
-- **LinkedIn Engajamento Diario** — Interação orgânica para ampliar alcance de conteúdo.
-
-- **Briefing Diario** — Resumo diário pessoal com prioridades e pendências.
-- **Gmail auto-arquivar >3 dias** — Limpeza automática de e-mails antigos do Gmail.
-<!-- DAILY:END -->
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+**Recent Code Pushes**
+- [easy-bus](https://github.com/silviorodrigues98/easy-bus)
+- [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
+- [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
+<!-- END DYNAMIC -->
 
 ---
 
@@ -75,22 +59,3 @@
 - **Análise e Desenvolvimento de Sistemas** (Tecnólogo) — Universidade Estácio de Sá 🎓
 - **Engenharia de Computação** (Pós-Graduação) — UNINTER
 - **Segurança Cibernética** (Pós-Graduação) — UNINTER
-
-
-<!-- START DYNAMIC -->
----
-
-## ⚡ Radar de Atividades `(Atualizado: 07 Oct 2026)`
-
-> _Orquestrando o caos diário através de agentes autônomos e automações invisíveis._
-
-### 🤖 Operações e Skills Hermes (IA Local)
-- ⚙️ Aperfeiçoando `scripts/update_github_profile.py`
-- ⚙️ Aperfeiçoando `skills/todoist_api.py`
-- ⚙️ Aperfeiçoando `skills/inbox_triage.py`
-
-### 💻 Últimos Pushes Públicos
-- 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
-- 📦 [easy-bus](https://github.com/silviorodrigues98/easy-bus)
-- 📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
-<!-- END DYNAMIC -->
