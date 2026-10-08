@@ -22,6 +22,21 @@ Se quiser trocar uma ideia sobre automação, IA ou apenas compartilhar um café
 </p>
 
 <!-- START DYNAMIC -->
+---
+
+## ⚡ Radar de Atividades `(Atualizado: 07 Oct 2026)`
+
+> _Autonomizando fluxos do dia a dia..._
+
+### 🤖 Operações e Skills Hermes (IA Local)
+- ⚙️ `scripts/update_github_profile.py`: Automação que mantém seu README atualizado diariamente.
+- ⚙️ `skills/todoist_api.py`: API v1 do Todoist: sincronização, subtasks P4, limpar 1 lote por vez com prova.
+- ⚙️ `skills/inbox_triage.py`: Organização iterativa e segura da Inbox do Gmail.
+
+### 💻 Últimos Pushes Públicos
+- 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
+- 📦 [easy-bus](https://github.com/silviorodrigues98/easy-bus)
+- 📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
 <!-- END DYNAMIC -->
 
 ---
