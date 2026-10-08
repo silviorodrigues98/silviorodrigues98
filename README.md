@@ -28,10 +28,10 @@ Se quiser trocar uma ideia sobre automação, IA ou apenas compartilhar um café
 
 > _Automating the boring stuff so I can focus on building._
 
-### 🤖 Operações e Skills Hermes (IA Local)
-- ⚙️ `scripts/github_gate.py`: Trabalhando nele.
-- ⚙️ `scripts/github_mark.py`: Trabalhando nele.
-- ⚙️ `scripts/update_github_profile.py`: Automação que mantém seu README atualizado diariamente.
+### 🤖 Radar de Atividades
+- ⚙️ Manutenção automática do README.
+- ⚙️ Controle de fluxo de atualizações do GitHub.
+- ⚙️ Marcador de atividades concluídas no GitHub.
 
 ### 💻 Últimos Pushes Públicos
 - 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
