@@ -24,19 +24,21 @@
 </p>
 
 <!-- START DYNAMIC -->
-### ⚡ Activity Log (Updated: Oct 07, 2026)
+---
 
-_Wiring up autonomous agents to conquer the next refactoring sprint._
+## ⚡ Radar de Atividades `(Atualizado: 07 Oct 2026)`
 
-**Agentic Workflows & AI Local Setup**
-- Tuning `scripts/update_github_profile.py`
-- Tuning `skills/todoist_api.py`
-- Tuning `skills/inbox_triage.py`
+> _Construindo agentes que operam sozinhos..._
 
-**Recent Code Pushes**
-- [easy-bus](https://github.com/silviorodrigues98/easy-bus)
-- [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
-- [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
+### 🤖 Operações e Skills Hermes (IA Local)
+- ⚙️ Aperfeiçoando `scripts/update_github_profile.py`
+- ⚙️ Aperfeiçoando `skills/todoist_api.py`
+- ⚙️ Aperfeiçoando `skills/inbox_triage.py`
+
+### 💻 Últimos Pushes Públicos
+- 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
+- 📦 [easy-bus](https://github.com/silviorodrigues98/easy-bus)
+- 📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
 <!-- END DYNAMIC -->
 
 ---
