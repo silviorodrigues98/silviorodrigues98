@@ -75,3 +75,20 @@
 - **Análise e Desenvolvimento de Sistemas** (Tecnólogo) — Universidade Estácio de Sá 🎓
 - **Engenharia de Computação** (Pós-Graduação) — UNINTER
 - **Segurança Cibernética** (Pós-Graduação) — UNINTER
+
+
+<!-- START DYNAMIC -->
+### ⚡ Activity Log (Updated: Oct 07, 2026)
+
+_Wiring up autonomous agents to conquer the next refactoring sprint._
+
+**Agentic Workflows & AI Local Setup**
+- Tuning `scripts/update_github_profile.py`
+- Tuning `skills/todoist_api.py`
+- Tuning `skills/inbox_triage.py`
+
+**Recent Code Pushes**
+- [easy-bus](https://github.com/silviorodrigues98/easy-bus)
+- [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
+- [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
+<!-- END DYNAMIC -->
