@@ -28,12 +28,12 @@
 
 ## ⚡ Radar de Atividades `(Atualizado: 07 Oct 2026)`
 
-> _Construindo agentes que operam sozinhos..._
+> _Autonomizando fluxos do dia a dia..._
 
 ### 🤖 Operações e Skills Hermes (IA Local)
-- ⚙️ Aperfeiçoando `scripts/update_github_profile.py`
-- ⚙️ Aperfeiçoando `skills/todoist_api.py`
-- ⚙️ Aperfeiçoando `skills/inbox_triage.py`
+- ⚙️ `scripts/update_github_profile.py`: Automação que mantém seu README atualizado diariamente.
+- ⚙️ `skills/todoist_api.py`: API v1 do Todoist: sincronização, subtasks P4, limpar 1 lote por vez com prova.
+- ⚙️ `skills/inbox_triage.py`: Organização iterativa e segura da Inbox do Gmail.
 
 ### 💻 Últimos Pushes Públicos
 - 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
