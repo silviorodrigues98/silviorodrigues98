@@ -24,9 +24,9 @@ Se quiser trocar uma ideia sobre automação, IA ou apenas compartilhar um café
 <!-- START DYNAMIC -->
 ---
 
-## ⚡ Radar de Atividades `(Atualizado: 07 Oct 2026)`
+## ⚡ Radar de Atividades `(Atualizado: 08 Oct 2026)`
 
-> _Transformando linhas de código em legados visíveis: atualizando o perfil para refletir a maestria de hoje._
+> _Automating the boring stuff so I can focus on building._
 
 ### 🤖 Operações e Skills Hermes (IA Local)
 - ⚙️ `scripts/github_gate.py`: Trabalhando nele.
