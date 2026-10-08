@@ -1,15 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Desenvolvendo+solu%C3%A7%C3%B5es+com+IA;Automa%C3%A7%C3%A3o+e+agentes+pr%C3%A1ticos;Sempre+aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="30" height="30" />
-  Olá, sou Silvio Rodrigues
-</h1>
+# Olá, sou Silvio Rodrigues 👋
 
-<p align="center">
-  Desenvolvedor focado em <b>automação, IA aplicada e ferramentas de produtividade</b> — de bots e scripts a aplicações web completas.
-</p>
+Minha missão é simples: **fazer a tecnologia trabalhar por mim, não o contrário.**
+
+Sou entusiasta de automações que realmente economizam tempo. Aqui no GitHub, você encontra o que estou construindo, testando e refinando — do dia a dia no Hermes a projetos que tiram ideias do papel. 
+
+Se quiser trocar uma ideia sobre automação, IA ou apenas compartilhar um café virtual, fique à vontade para me chamar.
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/silviorodrigues98/">
@@ -24,40 +22,20 @@
 </p>
 
 <!-- START DYNAMIC -->
----
-
-## ⚡ Radar de Atividades `(Atualizado: 07 Oct 2026)`
-
-> _Autonomizando fluxos do dia a dia..._
-
-### 🤖 Operações e Skills Hermes (IA Local)
-- ⚙️ `scripts/update_github_profile.py`: Automação que mantém seu README atualizado diariamente.
-- ⚙️ `skills/todoist_api.py`: API v1 do Todoist: sincronização, subtasks P4, limpar 1 lote por vez com prova.
-- ⚙️ `skills/inbox_triage.py`: Organização iterativa e segura da Inbox do Gmail.
-
-### 💻 Últimos Pushes Públicos
-- 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
-- 📦 [easy-bus](https://github.com/silviorodrigues98/easy-bus)
-- 📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
 <!-- END DYNAMIC -->
 
 ---
 
-## 📊 GitHub Stats
+## 📊 O que dizem os dados (GitHub Stats)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silviorodrigues98&theme=react" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silviorodrigues98&theme=react" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silviorodrigues98&theme=react" alt="Productive Time" />
-</p>
-
 ---
 
-## 🎓 Formação
+## 🎓 Educação
 
-- **Análise e Desenvolvimento de Sistemas** (Tecnólogo) — Universidade Estácio de Sá 🎓
-- **Engenharia de Computação** (Pós-Graduação) — UNINTER
-- **Segurança Cibernética** (Pós-Graduação) — UNINTER
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Estácio 🎓
+- **Pós-Graduação em Engenharia de Computação** — UNINTER
+- **Pós-Graduação em Segurança Cibernética** — UNINTER
