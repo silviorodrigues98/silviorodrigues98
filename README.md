@@ -24,14 +24,14 @@ Se quiser trocar uma ideia sobre automação, IA ou apenas compartilhar um café
 <!-- START DYNAMIC -->
 ---
 
-## ⚡ Radar de Atividades `(Atualizado: 08 Oct 2026)`
+## ⚡ Radar de Atividades `(Atualizado: 13 Oct 2026)`
 
-> _Automating the boring stuff so I can focus on building._
+> _Atualizando o casulo: novo código, nova perspectiva._
 
 ### 🤖 Radar de Atividades
-- ⚙️ Manutenção automática do README.
-- ⚙️ Controle de fluxo de atualizações do GitHub.
-- ⚙️ Marcador de atividades concluídas no GitHub.
+- ⚙️ Preparo do conteúdo para o LinkedIn.
+- ⚙️ Publicação automática no LinkedIn.
+- ⚙️ Trabalhando em melhorias gerais.
 
 ### 💻 Últimos Pushes Públicos
 - 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
