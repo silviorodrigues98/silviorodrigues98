@@ -29,35 +29,11 @@ Projeto e mantenho sistemas de automação autorreparáveis que integram tarefas
 
 ### 📊 GitHub Stats
 ![Estatísticas do Silvio](https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=radical)
-![Linguagens Principais](https://github-readme-stats.vercel.app/api?username=silviorodrigues98&langs=python&langs=typescript&langs=c%2B%2B&langs=javascript&langs=c&langs=go&theme=radical)
+![Streak do Silvio](https://github-readme-stats.vercel.app/api?username=silviorodrigues98&streak=include&theme=radical)
+![Conquistas do Silvio](https://github-readme-stats.vercel.app/api?username=silviorodrigues98&trophies=true&theme=radical)
 
 ---
 
 <!-- START DYNAMIC -->
-<!-- START DYNAMIC -->
----
-
-## ⚡ Radar de Atividades `(Atualizado: 14 Oct 2026)`
-
-> _Conquistando novos patamares em automação e arquitetura de sistemas autônomos._
-
-### 🎯 Foco do Dia: 🛠️ Infraestrutura de Automação
-
-**Hoje:** Conquistando 🛠️ Infraestrutura de Automação.
-
-### 🤖 Pulso do Ecossistema
-- **Automações:** LinkedIn 🟢 Postado às 09:00 | Briefing 🟢 Entregue às 09:30
-- **Produtividade:** ✅ 0 tarefas concluídas | 🚀 0 commits hoje
-- **Atividade Hermes (24h):** 6 arquivos (5 Python, 1 Markdown)
-
-### 🛠️ Radar de Atividades Recentes
-- Evoluindo a infraestrutura de transparência do perfil GitHub.
-- Refinando a estrutura do arquivo github_config.py.
-- Codificando e estruturando o conhecimento técnico do ecossistema.
-
-### 💻 Últimos Pushes Públicos
-- 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
-- 📦 [easy-bus](https://github.com/silviorodrigues98/easy-bus)
-- 📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
-<!-- END DYNAMIC -->
+<!-- O conteúdo do Radar será injetado aqui -->
 <!-- END DYNAMIC -->
