@@ -8,7 +8,10 @@ Desenvolvo fluxos de trabalho inteligentes e autônomos escaláveis. Especializa
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -18,7 +21,7 @@ Projeto e mantenho sistemas de automação autorreparáveis que integram tarefas
 
 *   **Orquestração de Pipelines**: Engenharia de fluxos de trabalho modulares e automatizados (LinkedIn, Gmail, Briefings) utilizando scripts de automação robustos.
 *   **Integração de Sistemas**: Conexão de APIs distintas (Todoist, Notion, Google Workspace) para criar um sistema operacional pessoal funcional.
-*   **Versatilidade Arquitetural**: Utilização de uma base sólida em Full-Stack (TypeScript, Go, C#) para construir componentes de backend resilientes e ferramentas de automação escaláveis.
+*   **Versatilidade Arquitetural**: Utilização de uma base sólida em desenvolvimento Full-Stack para construir componentes de backend resilientes e ferramentas de automação escaláveis.
 
 ---
 
@@ -44,6 +47,4 @@ Projeto e mantenho sistemas de automação autorreparáveis que integram tarefas
 - 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
 - 📦 [easy-bus](https://github.com/silviorodrigues98/easy-bus)
 - 📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
-<!-- END DYNAMIC -->
-
 <!-- END DYNAMIC -->
