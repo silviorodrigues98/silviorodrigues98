@@ -13,10 +13,8 @@ Desenvolvo fluxos de trabalho inteligentes e autônomos escaláveis. Especializa
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -34,6 +32,7 @@ Projeto e mantenho sistemas de automação autorreparáveis que integram tarefas
 
 ---
 
+<!-- START DYNAMIC -->
 <!-- START DYNAMIC -->
 <!-- START DYNAMIC -->
 ---
