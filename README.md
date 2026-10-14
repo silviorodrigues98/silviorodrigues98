@@ -1,25 +1,31 @@
+# 👋 Silvio Correa
+## Arquiteto de Automação Autônoma
 
-# Olá, sou Silvio Rodrigues 👋
+Desenvolvo fluxos de trabalho inteligentes e autônomos escaláveis. Especializado em infraestrutura de automação, sistemas baseados em agentes e arquitetura de sistemas multiplataforma.
 
-Minha missão é simples: **fazer a tecnologia trabalhar por mim, não o contrário.**
-
-Sou entusiasta de automações que realmente economizam tempo. Aqui no GitHub, você encontra o que estou construindo, testando e refinando — do dia a dia no Hermes a projetos que tiram ideias do papel. 
-
-Se quiser trocar uma ideia sobre automação, IA ou apenas compartilhar um café virtual, fique à vontade para me chamar.
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/silviorodrigues98/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:silviorodrigues98@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/5535999862243?text=Ol%C3%A1%20Silvio!%20Vi%20seu%20portf%C3%B3lio%20no%20GitHub%20e%20gostaria%20de%20conversar.">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
+### 🚀 Foco Principal: Infraestrutura de Agentes
+Projeto e mantenho sistemas de automação autorreparáveis que integram tarefas complexas e multiplataforma em ambientes unificados de infraestrutura como código.
+
+*   **Orquestração de Pipelines**: Engenharia de fluxos de trabalho modulares e automatizados (LinkedIn, Gmail, Briefings) utilizando scripts de automação robustos.
+*   **Integração de Sistemas**: Conexão de APIs distintas (Todoist, Notion, Google Workspace) para criar um sistema operacional pessoal funcional.
+*   **Versatilidade Arquitetural**: Utilização de uma base sólida em Full-Stack (TypeScript, Go, C#) para construir componentes de backend resilientes e ferramentas de automação escaláveis.
+
+---
+
+### 📊 GitHub Stats
+![Estatísticas do Silvio](https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=radical)
+
+---
 
 <!-- START DYNAMIC -->
 ---
@@ -40,18 +46,4 @@ Se quiser trocar uma ideia sobre automação, IA ou apenas compartilhar um café
 - 📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
 <!-- END DYNAMIC -->
 
----
-
-## 📊 O que dizem os dados (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silviorodrigues98&theme=react" alt="Profile Details" />
-</p>
-
----
-
-## 🎓 Educação
-
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Estácio 🎓
-- **Pós-Graduação em Engenharia de Computação** — UNINTER
-- **Pós-Graduação em Segurança Cibernética** — UNINTER
+<!-- END DYNAMIC -->
