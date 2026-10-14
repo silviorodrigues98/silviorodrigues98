@@ -26,13 +26,13 @@ Se quiser trocar uma ideia sobre automação, IA ou apenas compartilhar um café
 
 ## ⚡ Radar de Atividades `(Atualizado: 13 Oct 2026)`
 
-> _Focado em otimizar automações e refatorar fluxos._
+> _Focado em refinar fluxos e automações para maior transparência._
 
-### 🤖 Radar de Atividades `(Modificados nas últimas 24h: 3)`
+### 🤖 Radar de Atividades `(Modificados nas últimas 24h: 5 | 5 Python, 0 Markdown)`
 
+- ⚙️ Controle de fluxo de atualizações do GitHub.
 - ⚙️ Manutenção automática do README.
-- ⚙️ Editando github_config.py.
-- ⚙️ Preparo do conteúdo para o LinkedIn.
+- ⚙️ Desenvolvendo lógica em cron_cleanup.py.
 
 ### 💻 Últimos Pushes Públicos
 - 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
