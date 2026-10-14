@@ -29,9 +29,11 @@ Projeto e mantenho sistemas de automação autorreparáveis que integram tarefas
 
 ### 📊 GitHub Stats
 ![Estatísticas do Silvio](https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=radical)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api?username=silviorodrigues98&langs=python&langs=typescript&langs=c%2B%2B&langs=javascript&langs=c&langs=go&theme=radical)
 
 ---
 
+<!-- START DYNAMIC -->
 <!-- START DYNAMIC -->
 <!-- START DYNAMIC -->
 <!-- START DYNAMIC -->
