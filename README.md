@@ -9,7 +9,6 @@
 
 [![Focus](https://img.shields.io/badge/Focus-Cybersecurity_%26_Infra-0D1117?style=for-the-badge&logo=shield&logoColor=00FF66&color=161B22)](https://github.com/silviorodrigues98)
 [![Architecture](https://img.shields.io/badge/Architecture-Autonomous_Systems-0D1117?style=for-the-badge&logo=diagram-next&logoColor=00FF66&color=161B22)](https://github.com/silviorodrigues98)
-[![Status](https://img.shields.io/badge/Status-Online_%26_Autonomous-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF66&color=161B22)](https://github.com/silviorodrigues98)
 
 > `root@silvio-core:~# ./init_ecosystem.sh --mode=autonomous`
 
