@@ -1,20 +1,23 @@
 <div align="center">
 
-# ⚡ SILVIO RODRIGUES ⚡
+# ⚡ SILVIO RODRIGUES
 ### **Arquiteto de Automação Autônoma & Engenheiro de Software**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Autonomous+Agents;Cloud+Infra+%26+Distributed+Systems;Orquestrando+Sistemas+Aut%C3%B4nomos" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=Cybersecurity+%26+Autonomous+Agents;Cloud+Infra+%26+Distributed+Systems;Orquestrando+Sistemas+Aut%C3%B4nomos" alt="Typing Effect" />
 </p>
 
-[![Focus](https://img.shields.io/badge/Focus-Cybersecurity_%26_Infra-0D1117?style=for-the-badge&logo=shield&logoColor=00FF66&color=161B22)](https://github.com/silviorodrigues98)
-[![Architecture](https://img.shields.io/badge/Architecture-Autonomous_Systems-0D1117?style=for-the-badge&logo=diagram-next&logoColor=00FF66&color=161B22)](https://github.com/silviorodrigues98)
+<p align="center">
+  <a href="https://linkedin.com/in/silviorodrigues98"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:silviorodrigues98@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5535999862243?text=Ol%C3%A1%2C%20Silvio!%20Vim%20pelo%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+</p>
 
-> `root@silvio-core:~# ./init_ecosystem.sh --mode=autonomous`
+*Projetando e orquestrando ecossistemas autônomos escaláveis, autorreparáveis e multiplataforma.*
 
 ---
 
-## 🛠️ Stack & Ecossistema
+## 🛠️ Stack & Ecossistema Hacker
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
