@@ -79,7 +79,7 @@ _Automating the boring stuff so I can focus on building._
 | 🤖 **Briefing Diário** | 🟢 Entregue às 15:00 |
 | 📢 **LinkedIn Auto** | 🟢 Postado às 15:00 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
-| 🚀 **Commits GitHub** | 0 commits hoje |
+| 🚀 **Commits GitHub** | 19 commits hoje |
 | ⚙️ **Atividade (24h)** | `21 arquivos` (14 `.py`, 7 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
