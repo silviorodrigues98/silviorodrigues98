@@ -91,9 +91,10 @@ _Automating the boring stuff so I can focus on building._
 </div>
 
 ### 💻 Últimos Pushes Públicos
-- 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
-- 📦 [easy-bus](https://github.com/silviorodrigues98/easy-bus)
-- 📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
+
+📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)<br>
+📦 [easy-bus](https://github.com/silviorodrigues98/easy-bus)<br>
+📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)<br>
 
 </div>
 
