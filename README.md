@@ -62,11 +62,13 @@
 <!-- START DYNAMIC -->
 ---
 
+<div align="center" style="display: table; margin: 0 auto; text-align: left;">
+
 ## ⚡ Radar de Atividades `(Atualizado: 16 Oct 2026)`
 
 > _Automating the boring stuff so I can focus on building._
 
-<center>
+<div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
 ### ⚡ Pulso do Ecossistema
 
@@ -74,7 +76,7 @@
 
 | Métrica | Status / Valor |
 | :---: | :--- |
-| 🤖 **Briefing Diário** | 🟢 Entregue às 14:30 |
+| 🤖 **Briefing Diário** | 🟢 Entregue às 15:00 |
 | 📢 **LinkedIn Auto** | 🟢 Postado às 14:00 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
 | 🚀 **Commits GitHub** | 0 commits hoje |
@@ -86,10 +88,13 @@
 • **`SKILL.md`**: Trabalhando em melhorias de infraestrutura.<br>
 • **`run_all_frequent.py`**: Evoluindo a arquitetura de sistemas autônomos.<br>
 
-</center>
+</div>
 
 ### 💻 Últimos Pushes Públicos
 - 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
 - 📦 [easy-bus](https://github.com/silviorodrigues98/easy-bus)
 - 📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)
+
+</div>
+
 <!-- END DYNAMIC -->
