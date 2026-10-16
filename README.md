@@ -46,7 +46,7 @@
 | :--- | :--- | :--- | :--- |
 | 🎓 **Tecnólogo** | Análise e Desenvolvimento de Sistemas | ESTÁCIO | 2025 |
 | 📜 **Pós-Graduação** | Engenharia de Computação | UNINTER | 2026 |
-| 🛡️ **Pós-Graduação** | Cybersecurity | UNINTER | 2026 |
+| 📜 **Pós-Graduação** | Cybersecurity | UNINTER | 2026 |
 
 ---
 
