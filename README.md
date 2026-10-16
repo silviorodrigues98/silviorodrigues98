@@ -66,19 +66,27 @@
 
 > _Automating the boring stuff so I can focus on building._
 
-### 🎯 Foco do Dia: 🛠️ Infraestrutura de Automação
+<center>
 
-**Hoje:** Conquistando 🛠️ Infraestrutura de Automação.
+### ⚡ Pulso do Ecossistema
 
-### 🤖 Pulso do Ecossistema
-- **Automações:** LinkedIn 🟢 Postado às 14:00 | Briefing 🟢 Entregue às 14:30
-- **Produtividade:** ✅ 0 tarefas concluídas | 🚀 0 commits hoje
-- **Atividade Hermes (24h):** 22 arquivos (15 Python, 7 Markdown)
+> **Foco Atual:** `🛠️ Infraestrutura de Automação`
 
-### 🛠️ Radar de Atividades Recentes
-- Trabalhando em melhorias de infraestrutura.
-- Evoluindo a arquitetura de sistemas autônomos.
-- Trabalhando em melhorias de infraestrutura.
+| Métrica | Status / Valor |
+| :---: | :--- |
+| 🤖 **Briefing Diário** | 🟢 Entregue às 14:30 |
+| 📢 **LinkedIn Auto** | 🟢 Postado às 14:00 |
+| ✅ **Todoist Concluídas** | 0 tarefas hoje |
+| 🚀 **Commits GitHub** | 0 commits hoje |
+| ⚙️ **Atividade (24h)** | `23 arquivos` (16 `.py`, 7 `.md`) |
+
+### 🛠️ Frentes Ativas Recentemente
+
+• **`update_github_profile.py`**: Evoluindo a infraestrutura de transparência do perfil GitHub.<br>
+• **`SKILL.md`**: Trabalhando em melhorias de infraestrutura.<br>
+• **`run_all_frequent.py`**: Evoluindo a arquitetura de sistemas autônomos.<br>
+
+</center>
 
 ### 💻 Últimos Pushes Públicos
 - 📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)
