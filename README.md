@@ -66,7 +66,7 @@
 
 ## ⚡ Radar de Atividades `(Atualizado: 16 Oct 2026)`
 
-_Automating the boring stuff so I can focus on building._
+_Arquitetura autônoma em execução contínua: código vivo e resiliência em tempo real._
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
