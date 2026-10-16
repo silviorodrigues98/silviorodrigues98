@@ -40,6 +40,16 @@
 
 ---
 
+## 🎓 Formação Acadêmica & Especializações
+
+| Grau / Nível | Curso / Área | Instituição | Ano |
+| :--- | :--- | :--- | :--- |
+| 🎓 **Tecnólogo** | Análise e Desenvolvimento de Sistemas | ESTÁCIO | 2025 |
+| 📜 **Pós-Graduação** | Engenharia de Computação | UNINTER | 2026 |
+| 📜 **Pós-Graduação** | Cybersecurity | UNINTER | 2026 |
+
+---
+
 ## 📊 Telemetria de Código
 
 <p align="center">
