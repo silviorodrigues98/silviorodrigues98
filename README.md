@@ -84,9 +84,9 @@ _Automating the boring stuff so I can focus on building._
 
 ### 🛠️ Frentes Ativas Recentemente
 
-• **`update_github_profile.py`**: Evoluindo a infraestrutura de transparência do perfil GitHub.<br>
-• **`SKILL.md`**: Trabalhando em melhorias de infraestrutura.<br>
-• **`run_all_frequent.py`**: Evoluindo a arquitetura de sistemas autônomos.<br>
+🔹 **`update_github_profile.py`**: Evoluindo a infraestrutura de transparência do perfil GitHub.<br>
+🔹 **`SKILL.md`**: Trabalhando em melhorias de infraestrutura.<br>
+🔹 **`run_all_frequent.py`**: Evoluindo a arquitetura de sistemas autônomos.<br>
 
 </div>
 
