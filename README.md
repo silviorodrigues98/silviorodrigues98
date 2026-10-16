@@ -82,11 +82,11 @@ _Automating the boring stuff so I can focus on building._
 | 🚀 **Commits GitHub** | 0 commits hoje |
 | ⚙️ **Atividade (24h)** | `23 arquivos` (16 `.py`, 7 `.md`) |
 
-### 🛠️ Frentes Ativas Recentemente
+### 🛠️ Frentes Ativas do Agente
 
-🔹 **`update_github_profile.py`**: Evoluindo a infraestrutura de transparência do perfil GitHub.<br>
-🔹 **`SKILL.md`**: Trabalhando em melhorias de infraestrutura.<br>
-🔹 **`run_all_frequent.py`**: Evoluindo a arquitetura de sistemas autônomos.<br>
+🔹 **Automação de Conteúdo & Perfil** — Sincronização contínua de métricas, README dinâmico e pipeline de publicação.<br>
+🔹 **Orquestração GTD & Tarefas** — Integração autônoma com Todoist para priorização e triagem operacional diária.<br>
+🔹 **Sistemas Autônomos & Agentes** — Execução de crons, health checks e fluxos resilientes operando 24/7.<br>
 
 </div>
 
