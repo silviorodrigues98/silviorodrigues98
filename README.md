@@ -1,36 +1,38 @@
-# 👋 Silvio Correa
-## Arquiteto de Automação Autônoma
+<div align="center">
 
-Desenvolvo fluxos de trabalho inteligentes e autônomos escaláveis. Especializado em infraestrutura de automação, sistemas baseados em agentes e arquitetura de sistemas multiplataforma.
+# ⚡ SILVIO CORREA
+### Arquiteto de Automação Autônoma & Engenheiro de Software
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity_%26_Agente_Infra-purple?style=for-the-badge&logo=shield)](https://github.com/silviorodrigues98)
+[![Systems Architecture](https://img.shields.io/badge/Architecture-Autonomous_Systems-007ACC?style=for-the-badge&logo=diagram-next)](https://github.com/silviorodrigues98)
+
+*Projetando e orquestrando ecossistemas autônomos escaláveis, autorreparáveis e multiplataforma.*
 
 ---
 
-### 🚀 Foco Principal: Infraestrutura de Agentes
-Projeto e mantenho sistemas de automação autorreparáveis que integram tarefas complexas e multiplataforma em ambientes unificados de infraestrutura como código.
+</div>
 
-*   **Orquestração de Pipelines**: Engenharia de fluxos de trabalho modulares e automatizados (LinkedIn, Gmail, Briefings) utilizando scripts de automação robustos.
-*   **Integração de Sistemas**: Conexão de APIs distintas (Todoist, Notion, Google Workspace) para criar um sistema operacional pessoal funcional.
-*   **Versatilidade Arquitetural**: Utilização de uma base sólida em desenvolvimento Full-Stack para construir componentes de backend resilientes e ferramentas de automação escaláveis.
+## 🛠️ Matrix de Tecnologias & Stack
+
+* **Core & Linguagens:** Python • C# / .NET • Go • TypeScript • C++ • Shell Script
+* **Infra, Agentes & DevOps:** Docker • AWS • Azure • Hermes Agent • APIs & Workflows
+
+---
+
+### 🚀 Pilar de Atuação: Infraestrutura de Agentes
+> **Engenharia de Sistemas Autônomos & Segurança por Padrão**
+
+* 🤖 **Orquestração de Pipelines:** Fluxos modulares autônomos e resilientes (LinkedIn, Gmail, Briefings).
+* 🔌 **Integração Profunda:** Conexão nativa via APIs (Todoist, Notion, Google Workspace) para compor um Sistema Operacional Pessoal.
+* 🛡️ **Segurança & Resiliência:** Arquitetura defensiva, tratamento de falhas e automação autorreparável.
 
 ---
 
-### 📊 GitHub Stats
-![Estatísticas do Silvio](https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=radical)
-
----
+### 📊 Telemetria de Código
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=tokyonight&hide_border=true)" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=silviorodrigues98&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=silviorodrigues98&layout=compact&theme=tokyonight&hide_border=true)" width="48%" />
+</p>
 
 <!-- START DYNAMIC -->
 ---
