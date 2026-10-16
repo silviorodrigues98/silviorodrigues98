@@ -66,18 +66,18 @@
 
 ## ⚡ Radar de Atividades `(Atualizado: 16 Oct 2026)`
 
-> _Automating the boring stuff so I can focus on building._
+_Automating the boring stuff so I can focus on building._
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
 ### ⚡ Pulso do Ecossistema
 
-> **Foco Atual:** `🛠️ Infraestrutura de Automação`
+**Foco Atual:** `🛠️ Infraestrutura de Automação`
 
 | Métrica | Status / Valor |
 | :---: | :--- |
 | 🤖 **Briefing Diário** | 🟢 Entregue às 15:00 |
-| 📢 **LinkedIn Auto** | 🟢 Postado às 14:00 |
+| 📢 **LinkedIn Auto** | 🟢 Postado às 15:00 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
 | 🚀 **Commits GitHub** | 0 commits hoje |
 | ⚙️ **Atividade (24h)** | `23 arquivos` (16 `.py`, 7 `.md`) |
