@@ -53,8 +53,8 @@
 ## 📊 Telemetria de Código
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviorodrigues98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=420" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviorodrigues98&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=420" width="48%" />
 </p>
 
 </div>
