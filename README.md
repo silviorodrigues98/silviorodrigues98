@@ -64,9 +64,9 @@
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
-## ⚡ Radar de Atividades `(Atualizado: 16 Oct 2026)`
+## ⚡ Radar de Atividades `(Atualizado: 17 Oct 2026)`
 
-_Arquitetura autônoma em execução contínua: código vivo e resiliência em tempo real._
+_Automação que vibra em código, impulsionando perfis ao futuro._
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
@@ -76,11 +76,11 @@ _Arquitetura autônoma em execução contínua: código vivo e resiliência em t
 
 | Métrica | Status / Valor |
 | :---: | :--- |
-| 🤖 **Briefing Diário** | 🟢 Entregue às 15:00 |
-| 📢 **LinkedIn Auto** | 🟢 Postado às 15:00 |
+| 🤖 **Briefing Diário** | 🟢 Entregue às 08:00 |
+| 📢 **LinkedIn Auto** | 🔴 Falha |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
-| 🚀 **Commits GitHub** | 19 commits hoje |
-| ⚙️ **Atividade (24h)** | `21 arquivos` (14 `.py`, 7 `.md`) |
+| 🚀 **Commits GitHub** | 0 commits hoje |
+| ⚙️ **Atividade (24h)** | `10 arquivos` (6 `.py`, 4 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
 
