@@ -64,9 +64,9 @@
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
-## ⚡ Radar de Atividades `(Atualizado: 17 Oct 2026)`
+## ⚡ Radar de Atividades `(Atualizado: 18 Oct 2026)`
 
-_Automação inteligente e arquitetura de sistemas autônomos em constante evolução._
+_O GitHub perfil é meu palão de gigs — roto, atualizado e dan com qualidade._
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
@@ -77,7 +77,7 @@ _Automação inteligente e arquitetura de sistemas autônomos em constante evolu
 | Métrica | Status / Valor |
 | :---: | :--- |
 | 🤖 **Briefing Diário** | 🟢 Entregue às 19:30 |
-| 📢 **LinkedIn Auto** | 🟢 Postado às 22:00 |
+| 📢 **LinkedIn Auto** | 🟢 Postado às 00:01 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
 | 🚀 **Commits GitHub** | 0 commits hoje |
 | ⚙️ **Atividade (24h)** | `5 arquivos` (2 `.py`, 3 `.md`) |
