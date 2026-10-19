@@ -42,19 +42,19 @@
 
 ## 🎓 Formação Acadêmica & Especializações
 
-| Grau / Nível | Curso / Área | Instituição | Ano |
-| :--- | :--- | :--- | :--- |
-| 🎓 **Tecnólogo** | Análise e Desenvolvimento de Sistemas | ESTÁCIO | 2025 |
-| 📜 **Pós-Graduação** | Engenharia de Computação | UNINTER | 2026 |
-| 📜 **Pós-Graduação** | Cybersecurity | UNINTER | 2026 |
+| Formação / Especialização | Instituição & Ano |
+| :--- | :--- |
+| 🎓 **Análise e Desenvolvimento de Sistemas** <br><sub>Tecnólogo</sub> | **ESTÁCIO** • 2025 |
+| 📜 **Engenharia de Computação** <br><sub>Pós-Graduação</sub> | **UNINTER** • 2026 |
+| 🛡️ **Cybersecurity** <br><sub>Pós-Graduação</sub> | **UNINTER** • 2026 |
 
 ---
 
 ## 📊 Telemetria de Código
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=420" width="48%" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviorodrigues98&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=420" width="48%" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" height="180" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviorodrigues98&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=495" height="180" />
 </p>
 
 </div>
