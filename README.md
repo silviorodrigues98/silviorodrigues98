@@ -64,9 +64,9 @@
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
-## ⚡ Radar de Atividades `(Atualizado: 18 Oct 2026)`
+## ⚡ Radar de Atividades `(Atualizado: 19 Oct 2026)`
 
-_O GitHub perfil é meu palão de gigs — roto, atualizado e dan com qualidade._
+_Cada automação é um minuto devolvido à criatividade._
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
@@ -80,7 +80,7 @@ _O GitHub perfil é meu palão de gigs — roto, atualizado e dan com qualidade.
 | 📢 **LinkedIn Auto** | 🟢 Postado às 00:01 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
 | 🚀 **Commits GitHub** | 0 commits hoje |
-| ⚙️ **Atividade (24h)** | `5 arquivos` (2 `.py`, 3 `.md`) |
+| ⚙️ **Atividade (24h)** | `4 arquivos` (1 `.py`, 3 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
 
