@@ -71,7 +71,7 @@
 
 _Automating the boring stuff so I can focus on building._
 
-![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-FF6B35.svg?style=flat-square&logo=github) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=github) ![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-000000.svg?style=flat-square&logo=github) ![Todoist API](https://img.shields.io/badge/Todoist%20API-E44332.svg?style=flat-square&logo=github) ![GitHub API](https://img.shields.io/badge/GitHub%20API-181717.svg?style=flat-square&logo=github) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4.svg?style=flat-square&logo=github)
+![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-FF6B35.svg?style=for-the-badge&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logoColor=white) ![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-000000.svg?style=for-the-badge&logoColor=white) ![Todoist API](https://img.shields.io/badge/Todoist%20API-E44332.svg?style=for-the-badge&logoColor=white) ![GitHub API](https://img.shields.io/badge/GitHub%20API-181717.svg?style=for-the-badge&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4.svg?style=for-the-badge&logoColor=white)
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
@@ -85,7 +85,7 @@ _Automating the boring stuff so I can focus on building._
 | 📢 **LinkedIn Auto** | 🟢 Postado às 12:01 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
 | 🚀 **Commits GitHub** | 0 commits hoje |
-| ⚙️ **Atividade (24h)** | `5 arquivos` (3 `.py`, 2 `.md`) |
+| ⚙️ **Atividade (24h)** | `5 arquivos` (3 `.py`, 0 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
 
@@ -110,6 +110,8 @@ _Automating the boring stuff so I can focus on building._
 ### 🗂️ Frentes de Trabalho Recentes
 
 - **🛠️ Infraestrutura de Automação** — Infraestrutura de automação evoluindo a observabilidade do sistema.
+- **🧠 Produtividade & GTD** — Camada de produtividade automatizando triagem e priorização de compromissos.
+- **📊 Telemetria & Observabilidade** — Telemetria do agente consolidando sinais de operação em tempo real.
 
 
 
