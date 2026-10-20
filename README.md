@@ -84,7 +84,7 @@ _Automating the boring stuff so I can focus on building._
 | 🤖 **Briefing Diário** | ⚪ Desativado |
 | 📢 **LinkedIn Auto** | 🟢 Postado às 12:01 |
 | ✅ **Todoist Concluídas** | 2 tarefas hoje |
-| 🚀 **Commits GitHub** | 13 commits hoje |
+| 🚀 **Commits GitHub** | 14 commits hoje |
 | ⚙️ **Atividade (24h)** | `5 arquivos` (2 `.py`, 3 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
@@ -97,14 +97,14 @@ _Automating the boring stuff so I can focus on building._
 
 ### 🧠 Capacidades Autônomas em Operação
 
-| | Sistema | O que faz |
-| :---: | :--- | :--- |
-| 🔁 | **Self-Healing Crons** | Crons que se auto-reparam, detectam falhas transitórias e retomam execução sozinhos. |
-| 🧠 | **GTD Autonomous Sync** | Triagem, priorização e sincronização de tarefas com Todoist sem intervenção manual. |
-| 📢 | **Content Pipeline** | Redação, agendamento e publicação de conteúdo profissional em múltiplos canais. |
-| 📬 | **Inbox Triage** | Triagem autônoma de e-mails críticos com arquivamento automático por prazo. |
-| 📊 | **Live Telemetry** | Este painel é gerado por um agente que roda a cada 30 minutos, com dados reais. |
-| 🧩 | **Modular Architecture** | Configuração e utilitários compartilhados, versionados com backup automático em Git. |
+| Sistema | O que faz |
+| :--- | :--- |
+| 🔁 **Self-Healing Crons** | Crons que se auto-reparam, detectam falhas transitórias e retomam execução sozinhos. |
+| 🧠 **GTD Autonomous Sync** | Triagem, priorização e sincronização de tarefas com Todoist sem intervenção manual. |
+| 📢 **Content Pipeline** | Redação, agendamento e publicação de conteúdo profissional em múltiplos canais. |
+| 📬 **Inbox Triage** | Triagem autônoma de e-mails críticos com arquivamento automático por prazo. |
+| 📊 **Live Telemetry** | Este painel é gerado por um agente que roda a cada 30 minutos, com dados reais. |
+| 🧩 **Modular Architecture** | Configuração e utilitários compartilhados, versionados com backup automático em Git. |
 
 
 
