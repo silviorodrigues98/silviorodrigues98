@@ -80,7 +80,7 @@ _Automating the boring stuff so I can focus on building._
 | Métrica | Status / Valor |
 | :---: | :--- |
 | 🤖 **Briefing Diário** | 🟢 Entregue às 19:30 |
-| 📢 **LinkedIn Auto** | 🟢 Postado às 10:01 |
+| 📢 **LinkedIn Auto** | 🟢 Postado às 11:01 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
 | 🚀 **Commits GitHub** | 0 commits hoje |
 | ⚙️ **Atividade (24h)** | `4 arquivos` (2 `.py`, 2 `.md`) |
