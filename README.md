@@ -43,7 +43,7 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
 | 🤖 Briefing Diário | ⚪ Desativado |
 | 📢 LinkedIn Auto | 🟢 Postado às 15:00 |
 | ✅ Todoist Concluídas | 2 tarefas hoje |
-| 🚀 Commits GitHub | 9 commits hoje |
+| 🚀 Commits GitHub | 10 commits hoje |
 | ⚙️ Atividade (24h) | 10 arquivos (8 `.py`, 2 `.md`) |
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
@@ -60,27 +60,57 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
 
 ## 🛠️ Stack & Ecossistema
 
+<p align="center"><sub>Extraído por scan dos 127 repositórios — é o histórico real do que já construí, não uma lista de desejos.</sub></p>
+
 ### Linguagens
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# .NET" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
 </p>
 
-### Infraestrutura
+### Embarcados & IoT
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PlatformIO-FF6C00?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge" alt="ESP8266" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge" alt="Zabbix" />
+</p>
+
+### Web & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+</p>
+
+### Infra & Cloud
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### Cloud
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge" alt="Render" />
+  <img src="https://img.shields.io/badge/PlanetScale-5F4FFF?style=for-the-badge&logo=planetscale&logoColor=white" alt="PlanetScale" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
 ### IA & Agentes
@@ -88,6 +118,7 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
 <p align="center">
   <img src="https://img.shields.io/badge/Hermes_Agent-FF6B35?style=for-the-badge" alt="Hermes Agent" />
   <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Python_Agents-3776AB?style=for-the-badge" alt="Python Agents" />
 </p>
 
 
