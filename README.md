@@ -25,30 +25,35 @@
 
 ## 🤖 Meu Setup Autônomo
 
-Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linha é uma automação em execução, não uma descrição.
+Abaixo, o painel real das automações que rodam na minha máquina 24h por dia — cada linha é um job ativo com dados reais, não uma descrição.
 
-| Sistema | O que faz |
-| :--- | :--- |
-| 🔁 **Self-Healing Crons** | Crons que se auto-reparam, detectam falhas transitórias e retomam execução sozinhos. |
-| 🧠 **GTD Autonomous Sync** | Triagem, priorização e sincronização de tarefas com Todoist sem intervenção manual. |
-| 📢 **Content Pipeline** | Redação, agendamento e publicação de conteúdo profissional em múltiplos canais. |
-| 📬 **Inbox Triage** | Triagem autônoma de e-mails críticos com arquivamento automático por prazo. |
-| 📊 **Live Telemetry** | Este painel é gerado por um agente que roda a cada 30 minutos, com dados reais. |
-| 🧩 **Modular Architecture** | Configuração e utilitários compartilhados, versionados com backup automático em Git. |
+### ⚙️ Automações em Operação
+
+| Automação | O que faz | Frequência | Estado | Última execução |
+| :--- | :--- | :---: | :---: | :---: |
+| 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | 2x/dia | ⚪ Desativada | 17/10 19:30 |
+| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | 🟢 Ativa | 16:00 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | 🟢 Ativa | 16:01 |
+| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | 🟢 Ativa | 16:01 |
+| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | 🟢 Ativa | 12:17 |
+| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | 🟢 Ativa | 16:00 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | 🟢 Ativa | 15:46 |
+| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | 🟢 Ativa | 12:00 |
+| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | 🟢 Ativa | 12:00 |
 
 ### 📡 Status ao Vivo
 
 | Métrica | Valor |
-| :---: | :--- |
+| :---: | :---: |
 | 🤖 Briefing Diário | ⚪ Desativado |
 | 📢 LinkedIn Auto | 🟢 Postado às 00:01 |
 | ✅ Todoist Concluídas | 2 tarefas hoje |
-| 🚀 Commits GitHub | 12 commits hoje |
+| 🚀 Commits GitHub | 13 commits hoje |
 | ⚙️ Atividade (24h) | 10 arquivos (8 `.py`, 2 `.md`) |
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 20 Oct 2026. Bloco gerado por um agente autônomo — cada linha reflete uma automação real em execução.</sub>
+<sub>Atualizado em 20 Oct 2026. Painel gerado por um agente autônomo — cada linha reflete uma automação real em execução.</sub>
 
 </div>
 
