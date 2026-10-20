@@ -32,24 +32,16 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 | Automação | O que faz | Frequência | Estado | Última execução |
 | :--- | :--- | :---: | :---: | :---: |
 | 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | 2x/dia | ⚪ Desativada | 17/10 19:30 |
-| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | 🟢 Ativa | 16:00 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | 🟢 Ativa | 16:01 |
+| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | 🟢 Ativa | post 00:01 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | 🟢 Ativa | 16:12 |
 | 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | 🟢 Ativa | 16:01 |
 | ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | 🟢 Ativa | 12:17 |
 | 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | 🟢 Ativa | 16:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | 🟢 Ativa | 15:46 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | 🟢 Ativa | 16:17 |
 | 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | 🟢 Ativa | 12:00 |
 | 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | 🟢 Ativa | 12:00 |
 
-### 📡 Status ao Vivo
-
-| Métrica | Valor |
-| :---: | :---: |
-| 🤖 Briefing Diário | ⚪ Desativado |
-| 📢 LinkedIn Auto | 🟢 Postado às 00:01 |
-| ✅ Todoist Concluídas | 2 tarefas hoje |
-| 🚀 Commits GitHub | 13 commits hoje |
-| ⚙️ Atividade (24h) | 10 arquivos (8 `.py`, 2 `.md`) |
+✅ **2** tarefas do Todoist concluídas hoje · 🚀 **14** commits hoje · ⚙️ **10** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
