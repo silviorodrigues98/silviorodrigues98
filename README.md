@@ -69,7 +69,7 @@
 
 ## ⚡ Radar de Atividades `(Atualizado: 20 Oct 2026)`
 
-_Arquitetando automações autônomas e sistemas resilientes._
+_Automating the boring stuff so I can focus on building._
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
@@ -80,10 +80,10 @@ _Arquitetando automações autônomas e sistemas resilientes._
 | Métrica | Status / Valor |
 | :---: | :--- |
 | 🤖 **Briefing Diário** | 🟢 Entregue às 19:30 |
-| 📢 **LinkedIn Auto** | 🟢 Postado às 09:00 |
+| 📢 **LinkedIn Auto** | 🟢 Postado às 10:01 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
 | 🚀 **Commits GitHub** | 0 commits hoje |
-| ⚙️ **Atividade (24h)** | `3 arquivos` (1 `.py`, 2 `.md`) |
+| ⚙️ **Atividade (24h)** | `4 arquivos` (2 `.py`, 2 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
 
@@ -93,11 +93,6 @@ _Arquitetando automações autônomas e sistemas resilientes._
 
 </div>
 
-### 💻 Últimos Pushes Públicos
-
-📦 [silviorodrigues98](https://github.com/silviorodrigues98/silviorodrigues98)<br>
-📦 [easy-bus](https://github.com/silviorodrigues98/easy-bus)<br>
-📦 [calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)<br>
 
 </div>
 
