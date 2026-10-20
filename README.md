@@ -84,7 +84,7 @@ _Automating the boring stuff so I can focus on building._
 | 🤖 **Briefing Diário** | ⚪ Desativado |
 | 📢 **LinkedIn Auto** | 🟢 Postado às 12:01 |
 | ✅ **Todoist Concluídas** | 2 tarefas hoje |
-| 🚀 **Commits GitHub** | 8 commits hoje |
+| 🚀 **Commits GitHub** | 9 commits hoje |
 | ⚙️ **Atividade (24h)** | `30 arquivos` (28 `.py`, 2 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
@@ -105,6 +105,13 @@ _Automating the boring stuff so I can focus on building._
 | 📬 | **Inbox Triage** | Triagem autônoma de e-mails críticos com arquivamento automático por prazo. |
 | 📊 | **Live Telemetry** | Este painel é gerado por um agente que roda a cada 30 minutos, com dados reais. |
 | 🧩 | **Modular Architecture** | Configuração e utilitários compartilhados, versionados com backup automático em Git. |
+
+
+### 🚀 Projetos Publicos em Destaque
+
+- **[easy-bus](https://github.com/silviorodrigues98/easy-bus)** — Plataforma de gestão e monitoramento de transporte público em tempo real, focada em otimização de rotas e experiência do usuário. `HTML` ⭐ 1
+- **[calculador-de-sonhos](https://github.com/silviorodrigues98/calculador-de-sonhos)** — Calculadora de Sonhos: simulador de investimentos em CDB com cálculo de renda passiva e metas financeiras. Next.js, deploy na Vercel. `JavaScript` ⭐ 1
+- **[utility-hub](https://github.com/silviorodrigues98/utility-hub)** — Utility Hub: Chrome Extension all-in-one de produtividade — auto-reload, keep-alive e assinatura WhatsApp. Código aberto, privacidade em primeiro lugar. `JavaScript` ⭐ 1
 
 
 ### 🗂️ Frentes de Trabalho Recentes
