@@ -20,6 +20,7 @@
 ---
 
 <!-- START DYNAMIC -->
+
 ## 🤖 Meu Setup Autônomo
 
 Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linha é uma automação em execução, não uma descrição.
