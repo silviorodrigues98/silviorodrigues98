@@ -88,16 +88,3 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
 | **Análise e Desenvolvimento de Sistemas** — Tecnólogo | **ESTÁCIO** • 2025 |
 
 </div>
-
----
-
-<div align="center">
-
-## 📊 Telemetria de Código
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" height="180" alt="GitHub Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/top-langs/?username=silviorodrigues98&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=495" height="180" alt="Top Languages" />
-</p>
-
-</div>
