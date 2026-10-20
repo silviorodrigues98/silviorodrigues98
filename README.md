@@ -21,6 +21,8 @@
 
 <!-- START DYNAMIC -->
 
+<div align="center">
+
 ## 🤖 Meu Setup Autônomo
 
 Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linha é uma automação em execução, não uma descrição.
@@ -48,9 +50,13 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
 
 <sub>Atualizado em 20 Oct 2026. Bloco gerado por um agente autônomo — cada linha reflete uma automação real em execução.</sub>
 
+</div>
+
 <!-- END DYNAMIC -->
 
 ---
+
+<div align="center">
 
 ## 🛠️ Stack & Ecossistema
 
@@ -67,7 +73,11 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
   <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logoColor=white" alt="Model Context Protocol" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🎓 Formação Acadêmica & Especializações
 
@@ -77,7 +87,11 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
 | **Cybersecurity** — Pós-Graduação | **UNINTER** • 2026 |
 | **Análise e Desenvolvimento de Sistemas** — Tecnólogo | **ESTÁCIO** • 2025 |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 Telemetria de Código
 
@@ -85,3 +99,5 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
   <img src="https://github-readme-stats.vercel.app/api?username=silviorodrigues98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" height="180" alt="GitHub Stats" /><br><br>
   <img src="https://github-readme-stats.vercel.app/top-langs/?username=silviorodrigues98&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=495" height="180" alt="Top Languages" />
 </p>
+
+</div>
