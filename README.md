@@ -84,7 +84,7 @@ _Automating the boring stuff so I can focus on building._
 | 🤖 **Briefing Diário** | ⚪ Desativado |
 | 📢 **LinkedIn Auto** | 🟢 Postado às 12:01 |
 | ✅ **Todoist Concluídas** | 2 tarefas hoje |
-| 🚀 **Commits GitHub** | 11 commits hoje |
+| 🚀 **Commits GitHub** | 12 commits hoje |
 | ⚙️ **Atividade (24h)** | `5 arquivos` (2 `.py`, 3 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
@@ -118,6 +118,7 @@ _Automating the boring stuff so I can focus on building._
 
 - **🛠️ Infraestrutura de Automação** — Infraestrutura de automação evoluindo a observabilidade do sistema.
 - **🧠 Produtividade & GTD** — Camada de produtividade automatizando triagem e priorização de compromissos.
+- **📢 Autoridade Profissional** — Pipeline de conteúdo refinando presença profissional de forma autônoma.
 - **📬 Gestão de Comunicações** — Rotinas autônomas de triagem de e-mail reduzindo carga operacional manual.
 
 
