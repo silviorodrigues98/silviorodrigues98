@@ -60,18 +60,36 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
 
 ## 🛠️ Stack & Ecossistema
 
+### Linguagens
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# .NET" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+### Infraestrutura
+
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### Cloud
+
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Hermes_Agent-FF6B35?style=for-the-badge&logoColor=white" alt="Hermes Agent" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logoColor=white" alt="Model Context Protocol" />
 </p>
+
+### IA & Agentes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hermes_Agent-FF6B35?style=for-the-badge" alt="Hermes Agent" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge" alt="Model Context Protocol" />
+</p>
+
 
 </div>
 
