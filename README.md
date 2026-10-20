@@ -71,6 +71,8 @@
 
 _Automating the boring stuff so I can focus on building._
 
+![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-FF6B35.svg?style=flat-square&logo=github) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=github) ![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-000000.svg?style=flat-square&logo=github) ![Todoist API](https://img.shields.io/badge/Todoist%20API-E44332.svg?style=flat-square&logo=github) ![GitHub API](https://img.shields.io/badge/GitHub%20API-181717.svg?style=flat-square&logo=github) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4.svg?style=flat-square&logo=github)
+
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
 ### ⚡ Pulso do Ecossistema
@@ -80,10 +82,10 @@ _Automating the boring stuff so I can focus on building._
 | Métrica | Status / Valor |
 | :---: | :--- |
 | 🤖 **Briefing Diário** | 🟢 Entregue às 19:30 |
-| 📢 **LinkedIn Auto** | 🟢 Postado às 11:01 |
+| 📢 **LinkedIn Auto** | 🟢 Postado às 12:01 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
 | 🚀 **Commits GitHub** | 0 commits hoje |
-| ⚙️ **Atividade (24h)** | `4 arquivos` (2 `.py`, 2 `.md`) |
+| ⚙️ **Atividade (24h)** | `5 arquivos` (3 `.py`, 2 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
 
@@ -92,6 +94,23 @@ _Automating the boring stuff so I can focus on building._
 🔹 **Sistemas Autônomos & Agentes** — Execução de crons, health checks e fluxos resilientes operando 24/7.<br>
 
 </div>
+
+### 🧠 Capacidades Autônomas em Operação
+
+| | Sistema | O que faz |
+| :---: | :--- | :--- |
+| 🔁 | **Self-Healing Crons** | Crons que se auto-reparam, detectam falhas transitórias e retomam execução sozinhos. |
+| 🧠 | **GTD Autonomous Sync** | Triagem, priorização e sincronização de tarefas com Todoist sem intervenção manual. |
+| 📢 | **Content Pipeline** | Redação, agendamento e publicação de conteúdo profissional em múltiplos canais. |
+| 📬 | **Inbox Triage** | Triagem autônoma de e-mails críticos com arquivamento automático por prazo. |
+| 📊 | **Live Telemetry** | Este painel é gerado por um agente que roda a cada 30 minutos, com dados reais. |
+| 🧩 | **Modular Architecture** | Configuração e utilitários compartilhados, versionados com backup automático em Git. |
+
+
+### 🗂️ Frentes de Trabalho Recentes
+
+- **🛠️ Infraestrutura de Automação** — Infraestrutura de automação evoluindo a observabilidade do sistema.
+
 
 
 </div>
