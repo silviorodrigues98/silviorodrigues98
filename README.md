@@ -41,7 +41,7 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 | 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | 🟢 Ativa | 12:00 |
 | 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | 🟢 Ativa | 12:00 |
 
-✅ **2** tarefas do Todoist concluídas hoje · 🚀 **14** commits hoje · ⚙️ **10** arquivos alterados (24h)
+✅ **2** tarefas do Todoist concluídas hoje · 🚀 **15** commits hoje · ⚙️ **10** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
@@ -118,19 +118,5 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
   <img src="https://img.shields.io/badge/Python_Agents-3776AB?style=for-the-badge" alt="Python Agents" />
 </p>
 
-
-</div>
-
----
-
-<div align="center">
-
-## 🎓 Formação Acadêmica & Especializações
-
-| Formação | Instituição & Ano |
-| :--- | :--- |
-| **Engenharia de Computação** — Pós-Graduação | **UNINTER** • 2026 |
-| **Cybersecurity** — Pós-Graduação | **UNINTER** • 2026 |
-| **Análise e Desenvolvimento de Sistemas** — Tecnólogo | **ESTÁCIO** • 2025 |
 
 </div>
