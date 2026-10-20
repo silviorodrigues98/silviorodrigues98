@@ -85,7 +85,7 @@ _Automating the boring stuff so I can focus on building._
 | 📢 **LinkedIn Auto** | 🟢 Postado às 12:01 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
 | 🚀 **Commits GitHub** | 0 commits hoje |
-| ⚙️ **Atividade (24h)** | `5 arquivos` (3 `.py`, 0 `.md`) |
+| ⚙️ **Atividade (24h)** | `5 arquivos` (3 `.py`, 2 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
 
