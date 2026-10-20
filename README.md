@@ -43,7 +43,7 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
 | 🤖 Briefing Diário | ⚪ Desativado |
 | 📢 LinkedIn Auto | 🟢 Postado às 15:00 |
 | ✅ Todoist Concluídas | 2 tarefas hoje |
-| 🚀 Commits GitHub | 10 commits hoje |
+| 🚀 Commits GitHub | 11 commits hoje |
 | ⚙️ Atividade (24h) | 10 arquivos (8 `.py`, 2 `.md`) |
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
@@ -60,7 +60,7 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
 
 ## 🛠️ Stack & Ecossistema
 
-<p align="center"><sub>Extraído por scan dos 127 repositórios — é o histórico real do que já construí, não uma lista de desejos.</sub></p>
+<p align="center"><sub>Stack escaneada automaticamente dos meus repositórios públicos e privados, pelos meus próprios agentes.</sub></p>
 
 ### Linguagens
 
