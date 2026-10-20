@@ -33,7 +33,7 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 | :--- | :--- | :---: | :---: | :---: |
 | 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | 2x/dia | ⚪ Desativada | 17/10 19:30 |
 | 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | 🟢 Ativa | post 00:01 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | 🟢 Ativa | 16:12 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | 🟢 Ativa | 16:23 |
 | 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | 🟢 Ativa | 16:01 |
 | ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | 🟢 Ativa | 12:17 |
 | 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | 🟢 Ativa | 16:00 |
