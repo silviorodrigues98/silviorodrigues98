@@ -40,7 +40,7 @@ Abaixo, um retrato real do que meu agente faz sozinho, 24h por dia — cada linh
 | 🤖 Briefing Diário | ⚪ Desativado |
 | 📢 LinkedIn Auto | 🟢 Postado às 14:00 |
 | ✅ Todoist Concluídas | 2 tarefas hoje |
-| 🚀 Commits GitHub | 15 commits hoje |
+| 🚀 Commits GitHub | 0 commits hoje |
 | ⚙️ Atividade (24h) | 10 arquivos (8 `.py`, 2 `.md`) |
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
