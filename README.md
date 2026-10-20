@@ -81,10 +81,10 @@ _Automating the boring stuff so I can focus on building._
 
 | Métrica | Status / Valor |
 | :---: | :--- |
-| 🤖 **Briefing Diário** | 🟢 Entregue às 19:30 |
+| 🤖 **Briefing Diário** | ⚪ Desativado |
 | 📢 **LinkedIn Auto** | 🟢 Postado às 12:01 |
-| ✅ **Todoist Concluídas** | 0 tarefas hoje |
-| 🚀 **Commits GitHub** | 0 commits hoje |
+| ✅ **Todoist Concluídas** | 2 tarefas hoje |
+| 🚀 **Commits GitHub** | 7 commits hoje |
 | ⚙️ **Atividade (24h)** | `5 arquivos` (3 `.py`, 2 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
