@@ -69,7 +69,7 @@
 
 ## ⚡ Radar de Atividades `(Atualizado: 20 Oct 2026)`
 
-_Automação que acorda antes de você: cada commit é prova, cada pipeline é teto. Construindo sistemas que pensam enquanto você dorme._
+_Arquitetando automações autônomas e sistemas resilientes._
 
 <div align="center" style="display: table; margin: 0 auto; text-align: left;">
 
@@ -80,10 +80,10 @@ _Automação que acorda antes de você: cada commit é prova, cada pipeline é t
 | Métrica | Status / Valor |
 | :---: | :--- |
 | 🤖 **Briefing Diário** | 🟢 Entregue às 19:30 |
-| 📢 **LinkedIn Auto** | 🟢 Postado às 00:01 |
+| 📢 **LinkedIn Auto** | 🟢 Postado às 09:00 |
 | ✅ **Todoist Concluídas** | 0 tarefas hoje |
 | 🚀 **Commits GitHub** | 0 commits hoje |
-| ⚙️ **Atividade (24h)** | `7 arquivos` (3 `.py`, 4 `.md`) |
+| ⚙️ **Atividade (24h)** | `3 arquivos` (1 `.py`, 2 `.md`) |
 
 ### 🛠️ Frentes Ativas do Agente
 
