@@ -37,7 +37,7 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 | 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | 🟢 Ativa | 20/10 20:02 |
 | ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | 🟢 Ativa | 20/10 12:17 |
 | 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | 🟢 Ativa | 00:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | 🟢 Ativa | 20/10 23:31 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | 🟢 Ativa | 00:02 |
 | 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | 🟢 Ativa | 00:00 |
 | 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | 🟢 Ativa | 00:00 |
 
