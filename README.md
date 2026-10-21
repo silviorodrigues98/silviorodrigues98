@@ -32,20 +32,20 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 | Automação | O que faz | Frequência | Estado | Última execução |
 | :--- | :--- | :---: | :---: | :---: |
 | 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | 2x/dia | ⚪ Desativada | 17/10 19:30 |
-| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | 🟢 Ativa | post 00:01 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | 🟢 Ativa | 16:45 |
-| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | 🟢 Ativa | 16:01 |
-| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | 🟢 Ativa | 12:17 |
-| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | 🟢 Ativa | 16:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | 🟢 Ativa | 16:17 |
-| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | 🟢 Ativa | 12:00 |
-| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | 🟢 Ativa | 12:00 |
+| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | 🟢 Ativa | post 00:02 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | 🟢 Ativa | 20/10 23:54 |
+| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | 🟢 Ativa | 20/10 20:02 |
+| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | 🟢 Ativa | 20/10 12:17 |
+| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | 🟢 Ativa | 00:00 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | 🟢 Ativa | 20/10 23:31 |
+| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | 🟢 Ativa | 00:00 |
+| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | 🟢 Ativa | 00:00 |
 
-✅ **2** tarefas do Todoist concluídas hoje · 🚀 **17** commits hoje · ⚙️ **10** arquivos alterados (24h)
+✅ **0** tarefas do Todoist concluídas hoje · 🚀 **1** commits hoje · ⚙️ **13** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 20 Oct 2026. Painel gerado por um agente autônomo — cada linha reflete uma automação real em execução.</sub>
+<sub>Atualizado em 21 Oct 2026. Painel gerado por um agente autônomo — cada linha reflete uma automação real em execução.</sub>
 
 </div>
 
