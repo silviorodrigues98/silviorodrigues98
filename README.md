@@ -41,11 +41,11 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 | 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 07:12 | 12:00 |
 | 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | — | ⚪ Desativada | — |
 
-✅ **1** tarefas concluídas (24h) · 🚀 **0** commits (24h) · ⚙️ **9** arquivos alterados (24h)
+✅ **1** tarefas concluídas (24h) · 🚀 **8** commits (24h) · ⚙️ **9** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 22 Oct 2026 09:49. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 22 Oct 2026 09:50. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
@@ -116,7 +116,7 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
   <img src="https://img.shields.io/badge/Autonomous_Agents-FF6B35?style=flat-square" alt="Autonomous Agents" />
 </p>
 
-### Integracoes & Ferramentas
+### Integrações & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
