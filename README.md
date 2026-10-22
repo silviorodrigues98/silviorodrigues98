@@ -32,7 +32,7 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
 | 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | ✅ 07:24 | 09:00 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 08:29 | 08:39 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 08:40 | 08:50 |
 | 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 08:01 | 12:00 |
 | ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 07:21 | 12:00 |
 | 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 08:00 | 09:00 |
@@ -45,7 +45,7 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 22 Oct 2026 08:38. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 22 Oct 2026 08:47. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
@@ -81,7 +81,9 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hermes_Agent-FF6B35?style=flat-square" alt="Hermes Agent" />
-  <img src="https://img.shields.io/badge/Python_Agents-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Agents" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=icloud&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Omnirouter-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Omnirouter" />
+  <img src="https://img.shields.io/badge/Autonomous_Agents-FF6B35?style=flat-square&logo=openai&logoColor=white" alt="Autonomous Agents" />
 </p>
 
 
