@@ -31,21 +31,21 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
-| 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | 2x/dia | ⚪ Desativada | 17/10 20:00 |
 | 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | ✅ post 07:24 | 09:00 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 08:18 | 08:28 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 08:29 | 08:39 |
 | 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 08:01 | 12:00 |
 | ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 07:21 | 12:00 |
 | 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 08:00 | 09:00 |
 | 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 08:26 | 08:56 |
 | 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 07:13 | 12:00 |
 | 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 07:12 | 12:00 |
+| 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | — | ⚪ Desativada | — |
 
 ✅ **1** tarefas concluídas (24h) · 🚀 **11** commits (24h) · ⚙️ **9** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 22 Oct 2026 08:27. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 22 Oct 2026 08:33. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
