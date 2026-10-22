@@ -32,20 +32,20 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
 | 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | ✅ 07:24 | 11:00 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 09:57 | 10:07 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 10:52 | 11:02 |
 | 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 08:01 | 12:00 |
 | ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 07:21 | 12:00 |
 | 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 10:00 | 11:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 09:58 | 10:28 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 10:29 | 10:59 |
 | 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 07:13 | 12:00 |
 | 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 07:12 | 12:00 |
 | 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | — | ⚪ Desativada | — |
 
-✅ **1** tarefas concluídas (24h) · 🚀 **8** commits (24h) · ⚙️ **9** arquivos alterados (24h)
+✅ **1** tarefas concluídas (24h) · 🚀 **10** commits (24h) · ⚙️ **11** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 22 Oct 2026 10:01. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 22 Oct 2026 10:58. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
@@ -57,7 +57,7 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 
 ## 🛠️ Stack & Ecossistema
 
-<p align="center"><sub>Stack medida por scan automático: 126 repositórios (117 privados, 9 públicos) <b>+</b> o ecossistema Hermes que roda na minha máquina. O que está aqui é o histórico real, não uma lista de desejos.</sub></p>
+<p align="center"><sub>Stack validada por scan autônomo em 126 repositórios (117 privados, 9 públicos) <b>+</b> o ecossistema Hermes em execução local. O que está aqui é o histórico real de produção — zero listas de desejos.</sub></p>
 
 ### Linguagens
 
