@@ -31,21 +31,21 @@ Abaixo, o painel real das automações que rodam na minha máquina 24h por dia �
 
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
-| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | ✅ 07:02 | 08:00 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 07:00 | 07:10 |
-| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | 🔴 Erro 06:40 | 08:00 |
-| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | 🔴 Erro 06:45 | 12:00 |
-| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 07:00 | 08:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | 🔴 Erro 06:39 | 07:40 |
-| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 06:39 | 12:00 |
-| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 06:39 | 12:00 |
+| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | de hora em hora | 🔴 Erro 07:14 | 08:00 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 07:30 | 07:40 |
+| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | 🔴 Erro 07:15 | 08:00 |
+| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | 🔴 Erro 07:14 | 12:00 |
+| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 07:08 | 08:00 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | 🔴 Erro 07:08 | 08:09 |
+| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 07:08 | 12:00 |
+| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 07:08 | 12:00 |
 | 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | — | ⚪ Desativada | — |
 
-✅ **0** tarefas concluídas (24h) · 🚀 **1** commits (24h) · ⚙️ **1** arquivos alterados (24h)
+✅ **2** tarefas concluídas (24h) · 🚀 **28** commits (24h) · ⚙️ **0** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 26 Oct 2026 07:11. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 27 Oct 2026 07:39. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
