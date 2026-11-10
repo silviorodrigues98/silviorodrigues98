@@ -35,36 +35,36 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
-| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | 0 9 * * * | ✅ 09:03 | 10/11 09:00 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 17:04 | 17:14 |
-| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 16:01 | 20:00 |
-| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 12:06 | 10/11 00:00 |
-| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 17:00 | 18:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 16:43 | 17:44 |
-| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 12:00 | 10/11 00:00 |
-| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 12:00 | 10/11 00:00 |
+| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | 0 9 * * * | ✅ 09/11 09:03 | 09:00 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 07:23 | 07:33 |
+| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 09/11 20:01 | 08:00 |
+| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 09/11 12:06 | 12:00 |
+| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 07:23 | 08:00 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 09/11 22:24 | 07:53 |
+| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 09/11 12:00 | 12:00 |
+| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 07:23 | 12:00 |
 | 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | — | ⚪ Desativada | — |
 
 ### 🧩 Integrações Vivas
 
 | Integração | Estado |
 | :--- | :--- |
-| 🟢 **Telegram MCP** | polling ativo |
+| 🔴 **Telegram MCP** | <urlopen error [WinError 10061] No connection coul |
 | 🟢 **Notion MCP** | hermes |
 | 🟢 **Todoist API** | Silvio Correa |
 | 🔴 **GitHub API** | no token |
 | 🟢 **Gmail API** | token ok |
-| 🟢 **Omniroute LLM** | 530 models |
-| 🟢 **Gateway API** | ok |
+| 🔴 **Omniroute LLM** | <urlopen error [WinError 10061] No connection coul |
+| 🔴 **Gateway API** | <urlopen error [WinError 10061] No connection coul |
 | 🟢 **Cron Scheduler** | 9/9 ok |
 
 ### 📈 Prova Operacional
 
-✅ **2** tarefas concluídas (24h) · 🚀 **0** commits (24h) · ⚙️ **13** arquivos alterados (24h)
+✅ **2** tarefas concluídas (24h) · 🚀 **0** commits (24h) · ⚙️ **12** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 09 Nov 2026 17:14. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 10 Nov 2026 07:24. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
