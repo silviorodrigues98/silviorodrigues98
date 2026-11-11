@@ -35,12 +35,12 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
-| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | 0 9 * * * | ✅ 10/11 09:03 | 09:00 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 08:40 | 08:50 |
+| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | 0 9 * * * | ✅ 09:02 | 12/11 09:00 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 09:13 | 09:23 |
 | 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 08:00 | 12:00 |
 | ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 00:04 | 12:00 |
-| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 08:00 | 09:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 08:11 | 09:12 |
+| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 09:00 | 10:00 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 08:42 | 09:43 |
 | 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 00:00 | 12:00 |
 | 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 00:00 | 12:00 |
 | 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | — | ⚪ Desativada | — |
@@ -51,20 +51,20 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 | :--- | :--- |
 | 🟢 **Telegram MCP** | polling ativo |
 | 🟢 **Notion MCP** | hermes |
-| 🔴 **Todoist API** | HTTP Error 401: Unauthorized |
+| 🟢 **Todoist API** | Silvio Correa |
 | 🔴 **GitHub API** | no token |
 | 🟢 **Gmail API** | token ok |
-| 🟢 **Omniroute LLM** | 631 models |
+| 🟢 **Omniroute LLM** | 629 models |
 | 🟢 **Gateway API** | ok |
-| 🟢 **Cron Scheduler** | 9/9 ok |
+| 🟢 **Cron Scheduler** | 8/8 ok |
 
 ### 📈 Prova Operacional
 
-✅ **2** tarefas concluídas (24h) · 🚀 **0** commits (24h) · ⚙️ **22** arquivos alterados (24h)
+✅ **2** tarefas concluídas (24h) · 🚀 **4** commits (24h) · ⚙️ **31** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 11 Nov 2026 08:42. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 11 Nov 2026 09:13. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
