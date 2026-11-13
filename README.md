@@ -64,7 +64,7 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 13 Nov 2026 16:17. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 13 Nov 2026 16:19. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
