@@ -36,7 +36,7 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
 | 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | a cada 1d | ✅ 09:05 | 14/11 09:05 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 16:13 | 16:23 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 16:24 | 16:34 |
 | 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 16:00 | 20:00 |
 | ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 12:10 | 14/11 00:00 |
 | 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 16:00 | 17:00 |
@@ -53,8 +53,8 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 | 🟢 **Notion MCP** | hermes |
 | 🟢 **Todoist API** | Silvio Correa |
 | 🟢 **GitHub API** | @silviorodrigues98 |
-| 🟢 **Gmail API** | token ok |
-| 🟢 **Omniroute LLM** | 798 models |
+| 🔴 **Gmail API** | cannot access local variable 'urllib' where it is  |
+| 🟢 **Omniroute LLM** | 799 models |
 | 🟢 **Gateway API** | ok |
 | 🟡 **Cron Scheduler** | 8/10 ok |
 
@@ -64,7 +64,7 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 13 Nov 2026 16:19. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 13 Nov 2026 16:24. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
