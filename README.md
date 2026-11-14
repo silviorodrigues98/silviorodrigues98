@@ -35,14 +35,14 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
-| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | a cada 1d | ✅ 09:05 | 14/11 09:05 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 16:24 | 16:34 |
-| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 16:00 | 20:00 |
-| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 12:10 | 14/11 00:00 |
-| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 16:00 | 17:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 15:59 | 16:29 |
-| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 12:00 | 14/11 00:00 |
-| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 12:00 | 14/11 00:00 |
+| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | a cada 1d | ✅ 13/11 09:05 | 09:05 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 00:06 | 00:16 |
+| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 00:00 | 04:00 |
+| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 00:02 | 12:00 |
+| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 00:00 | 01:00 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 13/11 23:44 | 00:45 |
+| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 00:00 | 12:00 |
+| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 00:00 | 12:00 |
 | 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | — | ⚪ Desativada | — |
 
 ### 🧩 Integrações Vivas
@@ -52,19 +52,19 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 | 🟢 **Telegram MCP** | polling ativo |
 | 🟢 **Notion MCP** | hermes |
 | 🟢 **Todoist API** | Silvio Correa |
-| 🟢 **GitHub API** | @silviorodrigues98 |
+| 🔴 **GitHub API** | no token |
 | 🟢 **Gmail API** | token ok |
-| 🟢 **Omniroute LLM** | 799 models |
+| 🟢 **Omniroute LLM** | 813 models |
 | 🟢 **Gateway API** | ok |
 | 🟡 **Cron Scheduler** | 8/10 ok |
 
 ### 📈 Prova Operacional
 
-✅ **10** tarefas concluídas (24h) · 🚀 **2** commits (24h) · ⚙️ **7** arquivos alterados (24h)
+✅ **11** tarefas concluídas (24h) · 🚀 **2** commits (24h) · ⚙️ **14** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 13 Nov 2026 16:25. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 14 Nov 2026 00:15. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
