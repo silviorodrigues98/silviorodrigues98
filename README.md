@@ -35,13 +35,13 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
-| 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | 2x/dia | ✅ 00:00 | 00:30 |
-| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | a cada 1d | ✅ 16/11 09:13 | 09:13 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 16/11 23:58 | 00:08 |
-| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 00:01 | 04:00 |
-| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 16/11 12:06 | 12:00 |
-| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 00:00 | 01:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 16/11 23:33 | 00:34 |
+| 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | 2x/dia | ✅ 09:00 | 09:30 |
+| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | a cada 1d | ✅ 09:15 | 18/11 09:15 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 09:19 | 09:29 |
+| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 08:00 | 12:00 |
+| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 00:08 | 12:00 |
+| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 09:00 | 10:00 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 08:51 | 09:52 |
 | 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 00:00 | 12:00 |
 | 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 00:00 | 12:00 |
 
@@ -56,15 +56,15 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 | 🟢 **Gmail API** | token ok |
 | 🟢 **Omniroute LLM** | 800 models |
 | 🟢 **Gateway API** | ok |
-| 🟡 **Cron Scheduler** | 10/12 ok |
+| 🟡 **Cron Scheduler** | 11/12 ok |
 
 ### 📈 Prova Operacional
 
-✅ **2** tarefas concluídas (24h) · 🚀 **2** commits (24h) · ⚙️ **6** arquivos alterados (24h)
+✅ **0** tarefas concluídas (24h) · 🚀 **2** commits (24h) · ⚙️ **6** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 17 Nov 2026 00:04. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 17 Nov 2026 09:22. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
