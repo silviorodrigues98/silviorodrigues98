@@ -35,15 +35,15 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
-| 🤖 **Briefing Diário** | Resumo pessoal 2x/dia, entregue no Telegram. | 2x/dia | ✅ 00:00 | 00:30 |
-| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | a cada 1d | ✅ 18/11 09:17 | 09:17 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 00:00 | 00:10 |
-| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 00:00 | 04:00 |
-| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 00:02 | 12:00 |
-| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 00:00 | 01:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 18/11 23:36 | 00:37 |
-| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 00:00 | 12:00 |
-| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 00:00 | 12:00 |
+| 🤖 **Briefing Diário** | Resumo pessoal 1x/dia, entregue no Telegram. | 1x/dia | ✅ 16:30 | 17:00 |
+| 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | a cada 1d | ✅ 09:18 | 20/11 09:18 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 16:29 | 16:39 |
+| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 16:00 | 20:00 |
+| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 12:00 | 20/11 00:00 |
+| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 16:00 | 17:00 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 16:07 | 17:08 |
+| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 12:00 | 20/11 00:00 |
+| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 12:00 | 20/11 00:00 |
 
 ### 🧩 Integrações Vivas
 
@@ -54,17 +54,17 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 | 🟢 **Todoist API** | Silvio Correa |
 | 🔴 **GitHub API** | no token |
 | 🟢 **Gmail API** | token ok |
-| 🟢 **Omniroute LLM** | 623 models |
+| 🟢 **Omniroute LLM** | 418 models |
 | 🟢 **Gateway API** | ok |
-| 🟢 **Cron Scheduler** | 14/14 ok |
+| 🟡 **Cron Scheduler** | 14/15 ok |
 
 ### 📈 Prova Operacional
 
-✅ **14** tarefas concluídas (24h) · 🚀 **49** commits (24h) · ⚙️ **16** arquivos alterados (24h)
+✅ **1** tarefas concluídas (24h) · 🚀 **23** commits (24h) · ⚙️ **18** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 19 Nov 2026 00:07. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 19 Nov 2026 16:38. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
