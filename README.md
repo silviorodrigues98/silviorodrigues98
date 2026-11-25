@@ -69,3 +69,20 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 </div>
 
 <!-- END DYNAMIC -->
+
+---
+
+## 🤖 Curadoria Tech — Bot de Vagas Remotas
+
+Bot do Telegram que entrega vagas de tecnologia 100% remotas, verificadas diariamente, com filtro por área, nível de senioridade e escopo geográfico.
+
+**Como funciona:**
+1. Inicie com `/start` e escolha suas preferências (área, nível, escopo).
+2. O bot seleciona vagas compatíveis de um pool de mais de **265 vagas verificadas**.
+3. Cada vaga é entregue com requisitos, benefícios e link direto para candidatura.
+4. Trial gratuito ilimitado durante o beta público.
+
+**👉 Experimente o bot:** [t.me/curadoria_tech_bot](https://t.me/curadoria_tech_bot)
+
+**📂 Documentação e portfólio:** [github.com/silviorodrigues98/curadoria-tech](https://github.com/silviorodrigues98/curadoria-tech)
+
