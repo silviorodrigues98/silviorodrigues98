@@ -35,12 +35,12 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
-| 🤖 **Briefing Diário** | Resumo pessoal 1x/dia, entregue no Telegram. | 1x/dia | ✅ 06:00 | 06:30 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 06:01 | 06:11 |
-| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 04:04 | 08:00 |
+| 🤖 **Briefing Diário** | Resumo pessoal 1x/dia, entregue no Telegram. | 1x/dia | ✅ 09:30 | 10:00 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 09:41 | 09:51 |
+| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 08:09 | 12:00 |
 | ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 00:05 | 12:00 |
-| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 06:00 | 07:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 05:34 | 06:35 |
+| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 09:00 | 10:00 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 09:11 | 10:12 |
 | 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 00:01 | 12:00 |
 | 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 00:00 | 12:00 |
 | 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | — | ⚪ Desativada | — |
@@ -60,11 +60,11 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 
 ### 📈 Prova Operacional
 
-✅ **1** tarefas concluídas (24h) · 🚀 **9** commits (24h) · ⚙️ **5** arquivos alterados (24h)
+✅ **3** tarefas concluídas (24h) · 🚀 **11** commits (24h) · ⚙️ **5** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 27 Nov 2026 06:05. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 27 Nov 2026 09:42. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
