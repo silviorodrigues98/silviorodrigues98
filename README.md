@@ -35,14 +35,14 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 
 | Automação | O que faz | Frequência | Estado | Próxima |
 | :--- | :--- | :---: | :---: | :---: |
-| 🤖 **Briefing Diário** | Resumo pessoal 1x/dia, entregue no Telegram. | 1x/dia | ✅ 11:00 | 11:30 |
-| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 11:09 | 11:19 |
-| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 08:09 | 12:00 |
-| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 00:05 | 12:00 |
-| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 11:00 | 12:00 |
-| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 10:45 | 11:45 |
-| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 00:01 | 12:00 |
-| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 00:00 | 12:00 |
+| 🤖 **Briefing Diário** | Resumo pessoal 1x/dia, entregue no Telegram. | 1x/dia | ✅ 12:00 | 12:30 |
+| 📬 **Gmail Auto-arquivar** | Move e-mails com mais de 3 dias para o arquivo. | 1x/dia | ✅ 12:15 | 12:25 |
+| 🧠 **Todoist Auto-organizar** | Triagem e priorização de tarefas no inbox. | a cada 4h | ✅ 12:01 | 16:00 |
+| ⚡ **Auto-otimização** | Refatora e formata os scripts do Hermes. | a cada 12h | ✅ 12:05 | 28/11 00:00 |
+| 🩺 **Self-improve** | Varre logs de cron, detecta falhas e retoma jobs pausados. | de hora em hora | ✅ 12:00 | 13:00 |
+| 📊 **Perfil GitHub** | Regenera este README com dados reais. | 1x/dia | ✅ 11:46 | 12:47 |
+| 💾 **Backup Sync** | Versiona scripts e skills em Git. | a cada 12h | ✅ 12:01 | 28/11 00:00 |
+| 🧹 **Limpeza de Logs** | Remove logs de cron com mais de 7 dias. | a cada 12h | ✅ 12:00 | 28/11 00:00 |
 | 📢 **LinkedIn Diário** | Post de engajamento 1x/dia, sem link, no perfil pessoal. | — | ⚪ Desativada | — |
 
 ### 🧩 Integrações Vivas
@@ -56,15 +56,15 @@ Um sistema operacional de automação que conecta agentes, APIs, MCPs e rotinas 
 | 🟢 **Gmail API** | token ok |
 | 🟢 **Omniroute LLM** | 1436 models |
 | 🟢 **Gateway API** | ok |
-| 🟡 **Cron Scheduler** | 16/17 ok |
+| 🟡 **Cron Scheduler** | 17/18 ok |
 
 ### 📈 Prova Operacional
 
-✅ **4** tarefas concluídas (24h) · 🚀 **12** commits (24h) · ⚙️ **5** arquivos alterados (24h)
+✅ **4** tarefas concluídas (24h) · 🚀 **13** commits (24h) · ⚙️ **8** arquivos alterados (24h)
 
 **Foco atual:** 🛠️ Infraestrutura de Automação
 
-<sub>Atualizado em 27 Nov 2026 11:15. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
+<sub>Atualizado em 27 Nov 2026 12:17. Métricas calculadas em uma janela móvel de 24h. Painel gerado por um agente autônomo.</sub>
 
 </div>
 
